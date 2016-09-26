@@ -1,0 +1,63 @@
+Astronomy: discov like its_surface surfac jupit stars object diagram star astronom
+Biology: cell alpha cytoplasm dna membran enzym genet select syndrom gene
+Chemistry: given_by quark fluid spin su physicist materi voltag quantum physic
+Earth Science: has_a machin this_particle are_called largest row this earli by equal
+Fine Arts: imagin il this_prophet testament called_ distinguish this_thinker philosoph canada believ
+Geography: on_huon highway_links countri eastern country the_eastern swamp namatanai lae capit
+History: disput festiv 15_points cultur psycholog for_15 condemn points_name divin tradit
+Literature: conjug heat molecul amin prepar ion concentr ether chemistri chemist
+Mathematics: till mantl wind rock deposit hot miner ocean crust fossil
+Other: piec symphoni solo this_opera opera paint compos 10_pointsname pointsnam pointsname_this
+Physics: hill this by_an its built valley was_built harbor this_lake this_river
+Science: fought for trial fleet committe the_new militari successor anoth thi
+Social Science: author_who poet literari play_about novel grass playwright literatur anoth thi
+Social Studies: scienc e_to oper mathemat topolog implement algorithm polynomi subset mathematician
+TRAIN
+-------------------------
+Accuracy: 0.999940
+Astronomy	Biology	Chemistry	Earth Science	Fine Arts	Geography	History	Literature	Mathematics	Other	Physics	Science	Social Science	Social Studies
+235	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	1209	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	1343	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	1130	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	1	1241	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	5207	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	1084	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	138	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	3926	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	248	0	0	0	0
+0	0	0	0	0	0	0	0	0	1	0	6643	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	7880	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	622	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	2403
+(u'Philip', 'Fine Arts')	1
+(u'principl', 'Science')	1
+TEST
+-------------------------
+Accuracy: 0.815300
+Astronomy	Biology	Chemistry	Earth Science	Fine Arts	Geography	History	Literature	Mathematics	Other	Physics	Science	Social Science	Social Studies
+38	0	11	2	0	3	2	2	0	0	0	0	0	0
+0	262	2	18	0	7	6	1	1	0	1	5	0	0
+5	0	267	22	2	6	20	0	0	0	2	1	11	0
+6	27	37	139	10	2	33	2	0	1	1	0	22	2
+2	4	2	20	85	129	2	0	3	0	30	21	5	7
+3	9	11	3	49	1054	1	2	18	3	79	51	5	14
+2	11	20	19	1	4	212	0	0	0	0	0	0	1
+0	1	3	1	0	9	4	13	1	0	1	1	0	1
+0	1	2	6	2	17	0	0	878	0	11	48	0	16
+0	1	0	2	1	34	0	0	1	20	3	0	0	0
+0	0	1	4	4	58	2	2	4	3	1556	16	0	12
+1	2	0	3	13	60	0	1	34	0	33	1775	2	46
+0	0	11	9	1	9	1	1	1	0	2	1	116	3
+0	7	1	8	4	30	0	1	30	1	81	61	3	374
+(u'charact', 'Literature')	25
+(u'man', 'History')	20
+(u'man', 'Social Studies')	18
+(u'work', 'Social Studies')	15
+(u'figur', 'Social Studies')	13
+(u'work', 'Literature')	12
+(u'thinker', 'Social Studies')	11
+(u'man', 'Literature')	9
+(u'wa', 'Social Studies')	9
+(u'Accord', 'Social Studies')	7

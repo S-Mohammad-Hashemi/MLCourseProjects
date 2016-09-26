@@ -1,0 +1,70 @@
+Astronomy: moon jupiter galaxies star stellar objects astronomer constellation astronomical stars
+Biology: chromosomes organ vitamin cell enzyme proteins protein phylum dna disease
+Chemistry: formula reactions molecules molecule compounds element compound chemistry reaction chemist
+Earth Science: period_paleozoic ocean paleozoic earth crust mantle minerals period rock mineral
+Fine Arts: architect symphony pointsname artist painted sculptor opera painting painter composer
+Geography: river planet name_state california state_capital capital lake mountain name_largest name_river
+History: ruled battle victory politician dictator president rebellion empire emperor dynasty
+Literature: dramatist writer story novelist author poem play poet playwright novel
+Mathematics: programming mathematics function functions mathematical algorithm algebraic theorem problem mathematician
+Other: actor hit movie director album game team starring band film
+Physics: electron field scattering bosons matter material quantum particles physics physicist
+Science: name_disease particles reactions equals symbol organ wave formula contrasted numbers
+Social Science: christianity bible thinker philosopher_wrote philosophy name_concept psychologist philosopher economist religion
+Social Studies: deity mythological sociologist psychologist desert philosopher anthropologist god economist goddess
+TRAIN
+-------------------------
+Accuracy: 0.968810
+Astronomy	Biology	Chemistry	Earth Science	Fine Arts	Geography	History	Literature	Mathematics	Other	Physics	Science	Social Science	Social Studies
+226	0	0	0	0	0	2	2	0	0	1	2	0	2
+0	1203	1	0	0	0	1	2	0	0	0	1	0	1
+0	5	1057	0	0	0	2	1	0	0	7	12	0	0
+0	0	0	131	0	0	1	0	0	0	1	2	0	3
+0	1	0	0	3842	1	15	53	0	7	0	0	0	7
+2	1	0	0	1	204	15	1	0	1	0	3	0	20
+0	0	0	0	7	0	6573	33	0	3	0	0	0	28
+0	1	0	0	27	0	25	7788	0	6	0	3	0	30
+0	0	0	0	0	0	0	3	608	1	3	3	0	4
+0	4	1	0	24	0	85	65	0	2201	4	3	0	16
+1	0	4	0	1	0	1	1	1	0	1322	9	0	3
+0	15	21	0	0	0	1	2	7	0	21	1060	0	3
+0	7	1	1	1	0	41	55	1	2	3	12	1001	117
+0	2	1	1	6	0	57	72	0	2	2	0	8	5057
+('points', 'Literature')	186
+('points', 'History')	166
+('points', 'Social Studies')	153
+('FTP', 'Literature')	67
+('points', 'Science')	47
+('FTP', 'Social Studies')	46
+('FTP', 'History')	40
+('points', 'Fine Arts')	29
+('ten', 'Social Studies')	28
+('points', 'Biology')	25
+TEST
+-------------------------
+Accuracy: 0.750570
+Astronomy	Biology	Chemistry	Earth Science	Fine Arts	Geography	History	Literature	Mathematics	Other	Physics	Science	Social Science	Social Studies
+22	1	0	0	0	0	3	3	1	0	8	9	0	11
+0	246	10	1	0	0	5	5	0	5	1	22	1	7
+0	13	185	1	2	0	9	3	1	0	21	29	0	6
+0	2	0	11	0	0	2	2	0	0	3	3	0	12
+1	3	0	0	803	0	40	79	0	29	0	7	0	19
+0	2	0	0	0	6	23	2	0	0	0	0	0	29
+0	2	2	1	7	5	1484	31	0	28	1	5	2	94
+1	1	0	1	36	0	49	1752	2	50	0	2	3	73
+0	0	0	0	3	0	6	2	92	1	10	22	1	18
+1	4	0	0	35	0	96	102	1	312	0	7	2	41
+3	0	15	1	2	0	5	5	11	2	244	39	0	9
+1	44	37	0	0	0	7	3	16	7	37	115	5	10
+0	4	2	1	4	0	43	24	3	4	7	18	42	158
+2	10	1	1	15	4	153	105	6	22	6	22	19	936
+('points', 'History')	241
+('points', 'Social Studies')	228
+('points', 'Literature')	160
+('points', 'Science')	154
+('FTP', 'Social Studies')	127
+('FTP', 'Literature')	110
+('FTP', 'History')	88
+('points', 'Other')	65
+('points', 'Biology')	60
+('points', 'Fine Arts')	56

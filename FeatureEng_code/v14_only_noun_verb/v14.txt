@@ -1,0 +1,234 @@
+Astronomy: discovery astronomer methane astronomy limit diagram galaxies discovered jupiter stars
+Biology: membrane cytoplasm assay amino syndrome genes chromosome diseases selection humans
+Chemistry: moment physics potentials spin extent quark wavelength fields coupling voltage
+Earth Science: machine intersection regulates oxidized landforms row euclid of name contrasted
+Fine Arts: economist cardinality biologist sermon believers thinker virtue citizens of name
+Geography: swamp fly eastern astrolabe mangroves lae boluminski digul namatanai kavieng
+History: seeing vedic beliefs analysis congo solomon giant rivers importance demons
+Literature: chromatography ion concentrations isotope diffusion stability presence chemistry orbital chemist
+Mathematics: southern rock fossils layers deep minerals occur hardness crust mantle
+Other: commissioned composers painter piano painted background painting opera composer pointsname
+Physics: slope plates dam nile memorial name built hill and tribe
+Science: successor another these emperor julius voyages byzantine that it this
+Social Science: another novels at that she this other the he it
+Social Studies: calculus plane operations subset lemma notation theorems mathematics subsets mathematician
+TRAIN
+-------------------------
+Accuracy: 0.986011
+Astronomy	Biology	Chemistry	Earth Science	Fine Arts	Geography	History	Literature	Mathematics	Other	Physics	Science	Social Science	Social Studies
+234	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+0	1208	0	1	0	0	0	0	0	0	0	0	0	0	0
+0	0	1334	3	0	0	2	0	0	1	0	0	0	3	0
+0	16	56	1026	2	0	5	4	0	0	0	0	0	21	0
+1	1	0	7	1129	3	84	0	0	1	0	6	9	0	1
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+0	2	0	0	2	0	5193	0	0	0	0	8	1	1	0
+0	2	10	4	0	0	0	1068	0	0	0	0	0	0	0
+0	0	0	0	0	0	1	0	137	0	0	0	0	0	0
+0	0	0	0	0	0	8	0	0	3902	1	5	10	0	0
+0	0	0	0	0	0	24	0	0	0	223	1	0	0	0
+0	0	0	0	0	1	8	0	0	3	0	6617	14	0	1
+0	0	0	0	0	2	13	0	0	3	0	7	7852	0	3
+0	0	0	1	0	1	0	0	0	0	0	0	0	620	0
+0	2	1	0	0	0	17	0	0	7	0	54	20	0	2302
+('man', 'Social Studies')	17
+('man', 'History')	15
+('work', 'Social Studies')	12
+('thinker', 'Social Studies')	9
+('author', 'Literature')	8
+('poem', 'Literature')	8
+('section', 'Social Studies')	7
+('man', 'Physics')	6
+('novel', 'Literature')	6
+('book', 'Social Studies')	5
+TEST
+-------------------------
+Accuracy: 0.807734
+Astronomy	Biology	Chemistry	Earth Science	Fine Arts	Geography	History	Literature	Mathematics	Other	Physics	Science	Social Science	Social Studies
+42	0	5	1	0	0	9	0	1	0	0	0	0	0	0
+0	265	1	17	1	0	7	7	1	0	0	1	3	0	0
+6	1	254	32	3	0	7	16	1	0	0	1	1	12	2
+7	48	54	76	5	0	7	47	4	0	1	0	1	30	2
+2	6	4	13	73	1	156	1	0	1	0	32	12	6	3
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3	10	7	6	38	0	1109	1	2	12	3	63	31	1	16
+0	11	23	22	1	0	7	205	0	0	0	0	0	0	1
+0	1	4	2	1	0	12	5	10	0	0	0	0	0	0
+0	3	1	2	4	0	22	0	0	869	0	12	52	0	16
+0	2	0	1	0	0	44	0	0	2	9	4	0	0	0
+0	0	3	2	7	0	65	0	0	4	3	1550	18	0	10
+1	2	0	4	9	0	62	0	0	25	0	46	1787	2	32
+0	0	6	13	2	0	12	1	0	0	0	1	0	117	3
+0	3	0	4	5	0	47	0	1	38	0	80	58	5	360
+('character', 'Literature')	24
+('man', 'History')	23
+('man', 'Social Studies')	21
+('work', 'Social Studies')	19
+('figure', 'Social Studies')	15
+('work', 'Literature')	14
+('section', 'Social Studies')	14
+('was', 'Social Studies')	14
+('thinker', 'Social Studies')	14
+('According', 'Social Studies')	11
+
+
+
+
+________________________________________________________________________________________________________
+noun + verb + bigram
+features0.csv
+4163
+features1.csv
+4165
+features2.csv
+4164
+features3.csv
+4164
+features4.csv
+4164
+features5.csv
+4164
+features6.csv
+4164
+features7.csv
+4164
+features8.csv
+4164
+features9.csv
+4163
+test_features.csv
+5203
+LENNNNNNNNNNNNNNN: 41639
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+33312 41639 8327
+train index is: 33312
+test index is: 8327
+hereeee!!!!!!!!!!!!!!
+Astronomy: galaxies bang neptune pulsar atmosphere methane astronomer jupiter objects stars
+Biology: responsible_for sex diseases replication syndrome genes enzyme gene chromosome dna
+Chemistry: electrons this_operator wavelength symmetry scattering spin matter physicist this_physical voltage
+Earth Science: and_ are_called they_can and_this organelle by this_particle drug this_number equals
+Fine Arts: greek myth_system increasing christianity all_the called_ name citizens this_religious this_thinker
+Geography: eastern province capital pacific the_eastern swamp bays moresby lae namatanai
+History: analysis task for_15 condemned of_social rivers freud lived points_name economics
+Literature: exhibits solvent chemistry paradox concentrations free_energy this_equation ion stability chemist
+Mathematics: deposits till rocks varieties deep occur minerals crust rock mantle
+Other: piano piece this_opera painting painted opera composer pointsname 10_pointsname pointsname_this
+Physics: mountain brazil was_built hill this_country plateau this_lake bridge country_is this_river
+Science: byzantine elected for leaders the_so governor emperor occurred dynasty minister
+Social Science: other maid stories poet the_narrator poem _for literature novels poems
+Social Studies: functions e_to mathematics mathematician problem identity graphs closed algorithm space
+TRAIN
+-------------------------
+Accuracy: 0.999940
+Astronomy	Biology	Chemistry	Earth Science	Fine Arts	Geography	History	Literature	Mathematics	Other	Physics	Science	Social Science	Social Studies
+235	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	1209	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	1343	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	1130	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	1242	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	5207	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	1084	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	138	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	3926	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	248	0	0	0	0
+0	0	0	0	0	0	0	0	0	1	0	6643	0	0	0
+0	0	0	0	1	0	0	0	0	0	0	0	7879	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	622	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	2403
+('Philip', 'Fine Arts')	1
+('Kebra', 'Social Science')	1
+TEST
+-------------------------
+Accuracy: 0.809775
+Astronomy	Biology	Chemistry	Earth Science	Fine Arts	Geography	History	Literature	Mathematics	Other	Physics	Science	Social Science	Social Studies
+38	0	10	2	0	5	1	1	0	0	1	0	0	0
+0	258	2	23	3	4	4	0	1	0	0	4	0	4
+4	0	261	23	2	4	20	1	0	0	2	2	16	1
+6	28	37	134	7	2	41	1	0	0	0	1	25	0
+1	3	4	25	97	111	1	0	1	0	29	25	5	8
+4	9	8	8	71	1028	0	1	16	5	78	54	3	17
+1	11	21	18	2	4	207	0	1	0	0	2	1	2
+0	1	6	2	0	7	5	10	0	0	2	0	1	1
+0	1	0	5	6	17	0	0	873	0	11	50	0	18
+0	1	0	3	1	28	0	0	0	24	5	0	0	0
+0	0	1	4	5	56	1	1	5	3	1553	19	0	14
+1	3	1	2	15	57	0	1	33	0	37	1767	3	50
+0	0	5	11	1	7	2	0	0	0	1	0	124	4
+0	3	1	7	2	29	0	1	30	0	85	72	2	369
+('character', 'Literature')	27
+('man', 'History')	21
+('man', 'Social Studies')	16
+('work', 'Social Studies')	15
+('work', 'Literature')	14
+('figure', 'Social Studies')	11
+('section', 'Social Studies')	11
+('was', 'Social Studies')	10
+('thinker', 'Social Studies')	10
+('man', 'Social Science')	9
+
+________________________________________________________________________________________________________
+ghabli + stem
+Astronomy: neptun astronom bang jupit discov galaxi supernova object diagram star
+Biology: cytoplasm bacteria membran dna cell plant syndrom enzym diseas gene
+Chemistry: physicist planck partial_of fluid this_operator materi this_physical physic quark voltag
+Earth Science: phenomenon these_cells secret and_ angl this_particle row are_called this equal
+Fine Arts: this_religious its_ philosoph that_work hero us distinguish called_ believ this_thinker
+Geography: boluminski and_swamp this_country country capit eastern the_eastern swamp lae namatanai
+History: weber this_gods this_mans psycholog 15_points for_15 condemn festiv points_name tradit
+Literature: hydrogen salt intermedi solvent chemistri stabil ion molecul concentr chemist
+Mathematics: mantle mineral crust deep basin mantl deposit miner rock fossil
+Other: design commiss symphoni painter opera paint compos pointsnam 10_pointsname pointsname_this
+Physics: built strait part_of bay this_mountain country_is was_built harbor this_lake this_river
+Science: vice dynasty the_home ruler leader legisl empir successor anoth thi
+Social Science: poem novel_in playwright ghost novel this_essay literatur poet anoth thi
+Social Studies: oper equations lambda ident algorithm close satisfi prime comput subset
+TRAIN
+-------------------------
+Accuracy: 0.999970
+Astronomy	Biology	Chemistry	Earth Science	Fine Arts	Geography	History	Literature	Mathematics	Other	Physics	Science	Social Science	Social Studies
+235	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	1209	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	1343	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	1129	1	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	1242	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	5207	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	1084	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	138	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	3926	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	248	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	6644	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	7880	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	622	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	2403
+(u'materi', 'Social Science')	1
+TEST
+-------------------------
+Accuracy: 0.814579
+Astronomy	Biology	Chemistry	Earth Science	Fine Arts	Geography	History	Literature	Mathematics	Other	Physics	Science	Social Science	Social Studies
+41	0	8	1	0	4	1	2	0	1	0	0	0	0
+0	258	4	19	1	6	6	0	0	0	1	5	0	3
+4	0	267	30	0	4	15	0	0	0	1	2	11	2
+6	35	33	128	10	1	39	0	2	0	2	0	25	1
+1	4	5	18	91	130	1	0	2	0	32	17	3	6
+3	9	6	7	55	1059	2	0	13	8	71	45	6	18
+1	10	19	16	1	4	216	0	1	0	0	0	2	0
+1	2	5	1	0	7	6	9	0	0	1	0	1	2
+1	1	0	4	4	16	1	0	881	0	9	50	0	14
+0	2	0	3	1	32	0	0	3	17	3	0	0	1
+0	0	1	3	6	52	1	1	7	2	1559	14	1	15
+1	2	0	3	12	58	1	2	35	0	40	1775	1	40
+1	1	9	13	2	13	1	0	1	0	1	1	110	2
+0	3	1	9	5	33	0	1	30	1	81	65	0	372
+(u'charact', 'Literature')	27
+(u'man', 'History')	22
+(u'man', 'Social Studies')	18
+(u'work', 'Literature')	15
+(u'work', 'Social Studies')	14
+(u'figur', 'Social Studies')	13
+(u'thinker', 'Social Studies')	12
+(u'Accord', 'Social Studies')	9
+(u'citi', 'Social Studies')	8
+(u'man', 'Other')	8

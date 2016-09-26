@@ -1,0 +1,66 @@
+Michel_Mayor Mayor_used used_astrometric astrometric_data data_provided provided_by by_Hipparcos Hipparcos_in in_conjunction conjunction_with with_the the_radial radial_velocity velocity_method method_to to_investigate investigate_ten ten_candidates candidates_for for_them.	S them.	S_Ori Ori_47 47_has has_the the_lowest lowest_mass mass_of of_any any_known known_one one_of of_these these_and and_they they_release release_substantial substantial_amounts amounts_of of_infrared infrared_radiation.	Known radiation.	Known_to to_fuse fuse_deuterium deuterium_on on_a a_small small_scale, scale,_their their_name name_was was_coined coined_by by_Jill Jill_Tarter Tarter_and and_Gliese Gliese_229B 229B_was was_the the_first first_one one_to to_be be_confirmed.	The confirmed.	The_maximum maximum_mass mass_of of_one one_of of_these these_is is_believed believed_to to_be be_approximately approximately_84 84_times times_the the_mass mass_of of_Jupiter, Jupiter,_or or_the the_largest largest_mass mass_that that_is is_insufficient insufficient_for for_normal normal_hydrogen hydrogen_fusion.	For fusion.	For_10 10_points, points,_name name_this this_dimmest dimmest_and and_least least_massive massive_star, star,_sometimes sometimes_referred referred_to to_as as_a a_"failed "failed_star.	" star.	" 
+her!!!!!!!!!!!!!!eeee
+Astronomy: the_solar star objects the_sun solar_system astronomer years main_sequence this_constellation stars
+Biology: this_enzyme enzyme in_humans plants the_protein the_brain amino_acid the_cell syndrome of_dna
+Chemistry: transition_metal this_equation bond in_chemistry solvent this_chemical this_reaction atomic_number reaction chemist
+Earth Science: mid discontinuity the_mantle this_period rock crust mineral this_mineral mantle the_earth
+Fine Arts: painter_of its_composer painting opera the_composer composer 10_pointsname pointsname_this this_opera composer_of
+Geography: fault mountain by_an lake most_populous mountain_in namesake_ country_is this_mountain this_river
+History: president led_by britain prime_minister governor invasion_of emperor dynasty control_of ruler_of
+Literature: this_play a_play the_play the_narrator poet_of this_poem novel_in the_novel author_who short_story
+Mathematics: mathematician_who algorithm space function e_to numbers mathematician data_structures problem proof_of
+Other: game band team yr played_by movie points_ the_film rl film
+Physics: mass electrons electron spin effect physicist_who given_by this_physical voltage particles
+Science: half the_left these_substances commonly_used organelle contrasted_with by these_cells radiation this_number
+Social Science: aristotle the_golden us this_greek one_named this_prophet this_religious this_religion this_philosophy this_thinker
+Social Studies: gods on_its goddess_of this_gods this_mythological god_of philosophy_of myth society of_social
+TRAIN
+-------------------------
+Accuracy: 0.999880
+Astronomy	Biology	Chemistry	Earth Science	Fine Arts	Geography	History	Literature	Mathematics	Other	Physics	Science	Social Science	Social Studies
+235	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	1209	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	1084	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	138	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	3925	0	1	0	0	0	0	0	0	0
+0	0	0	0	0	248	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	6644	0	0	0	0	0	0	0
+0	0	0	1	0	0	0	7878	0	0	0	1	0	0
+0	0	0	0	0	0	0	0	622	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	2403	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	1343	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	1130	0	0
+0	0	0	0	0	0	0	1	0	0	0	0	1241	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	5208
+('After_this', 'Literature')	1
+('In_Philip', 'History')	1
+('young_wife', 'Earth Science')	1
+('This_material', 'Science')	1
+TEST
+-------------------------
+Accuracy: 0.796926
+Astronomy	Biology	Chemistry	Earth Science	Fine Arts	Geography	History	Literature	Mathematics	Other	Physics	Science	Social Science	Social Studies
+39	0	1	0	0	0	4	0	0	0	7	0	0	7
+0	256	9	0	2	0	2	6	0	3	2	13	1	9
+0	9	202	1	0	0	3	3	2	0	19	23	0	8
+1	4	6	6	0	0	1	0	0	1	3	2	0	11
+0	2	1	0	868	0	13	52	0	15	0	6	2	22
+0	1	0	1	1	14	6	0	0	0	0	3	0	36
+0	1	2	1	5	3	1540	9	1	20	1	2	7	70
+1	2	1	1	36	0	42	1742	2	40	1	2	8	92
+0	0	1	0	1	0	3	0	107	3	10	13	1	16
+0	3	0	1	33	0	93	89	0	338	1	11	0	32
+2	2	17	0	0	0	2	3	12	0	259	29	0	10
+3	32	37	1	1	0	2	0	24	2	30	142	6	2
+1	2	1	0	1	0	35	20	4	4	3	26	70	143
+3	8	1	1	14	2	80	63	5	14	10	10	38	1053
+('One_character', 'Literature')	20
+('This_man', 'History')	17
+('In_one', 'Literature')	16
+('This_man', 'Social Studies')	14
+('This_thinker', 'Social Studies')	14
+('In_one', 'Social Studies')	13
+('This_figure', 'Social Studies')	11
+('One_of', 'Social Studies')	9
+('This_work', 'Social Studies')	8
+('This_character', 'Literature')	8

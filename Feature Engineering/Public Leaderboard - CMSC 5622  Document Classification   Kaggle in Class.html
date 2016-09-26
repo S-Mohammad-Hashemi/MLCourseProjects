@@ -1,0 +1,1724 @@
+<!DOCTYPE html>
+<!-- saved from url=(0095)https://inclass.kaggle.com/c/cmsc-5622-document-classification/leaderboard?submissionId=1254940 -->
+<html><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <link href="./Public Leaderboard - CMSC 5622  Document Classification   Kaggle in Class_files/css" rel="stylesheet" type="text/css"> 
+
+    
+    
+    <title>Public Leaderboard - CMSC 5622: Document Classification | Kaggle in Class</title>
+    
+    <meta name="robots" content="index, follow">
+    <link href="https://inclass.kaggle.com/content/v/e7918c3028a4/inclass/favicon.ico" rel="shortcut icon" type="image/x-icon">
+
+        <meta name="google" content="notranslate">
+    
+        <meta name="keywords" content="Kaggle, class, classroom, data mining, forecasting, statistics, prediction, bioinformatics, competitions, contests, crowdsourced analytics">
+            <meta name="description" content="allows instructors to host data prediction competitions for their students. Competitions are a great way to engage students, giving them the opportunity to put into practice what they learn in class">
+
+            <link rel="stylesheet" href="./Public Leaderboard - CMSC 5622  Document Classification   Kaggle in Class_files/base.less" type="text/css">
+        <link rel="stylesheet" href="./Public Leaderboard - CMSC 5622  Document Classification   Kaggle in Class_files/inclass-site.less" type="text/css">
+
+        <script type="text/javascript" async="" src="./Public Leaderboard - CMSC 5622  Document Classification   Kaggle in Class_files/ga.js"></script><script type="text/javascript" src="./Public Leaderboard - CMSC 5622  Document Classification   Kaggle in Class_files/jquery-1.7.2.min.js"></script>
+            <script type="text/javascript" src="./Public Leaderboard - CMSC 5622  Document Classification   Kaggle in Class_files/jquery-ui-1.9.2.min.js"></script>
+
+    
+        <script type="text/javascript" src="./Public Leaderboard - CMSC 5622  Document Classification   Kaggle in Class_files/kaggle.min.js"></script>
+        <script type="text/javascript">
+            
+            Kaggle.Current.siteId = 3;
+                Kaggle.Current.competitionId = 4226;
+                            Kaggle.Current.userId = 294161;
+        </script>
+
+    
+    <!--[if (gte IE 6)&(lte IE 8)]>
+        <script type="text/javascript" src="/content/v/25d27cd7f061/shared/js/ie/selectivizr.min.js"></script>
+    <![endif]-->
+
+    
+                                        
+                                                <script type="text/javascript" src="./Public Leaderboard - CMSC 5622  Document Classification   Kaggle in Class_files/jquery.scrollto-1.4.3.1.min.js"></script><style type="text/css"></style>
+                                <link rel="apple-touch-icon" href="https://inclass.kaggle.com/content/v/1d6e48bac622/inclass/img/apple-touch-icon.png">
+
+
+    
+    <!--[if lt IE 9]>
+        <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+<style type="text/css">.MathJax_Hover_Frame {border-radius: .25em; -webkit-border-radius: .25em; -moz-border-radius: .25em; -khtml-border-radius: .25em; box-shadow: 0px 0px 15px #83A; -webkit-box-shadow: 0px 0px 15px #83A; -moz-box-shadow: 0px 0px 15px #83A; -khtml-box-shadow: 0px 0px 15px #83A; border: 1px solid #A6D ! important; display: inline-block; position: absolute}
+.MathJax_Hover_Arrow {position: absolute; width: 15px; height: 11px; cursor: pointer}
+</style><style type="text/css">#MathJax_About {position: fixed; left: 50%; width: auto; text-align: center; border: 3px outset; padding: 1em 2em; background-color: #DDDDDD; color: black; cursor: default; font-family: message-box; font-size: 120%; font-style: normal; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; border-radius: 15px; -webkit-border-radius: 15px; -moz-border-radius: 15px; -khtml-border-radius: 15px; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+.MathJax_Menu {position: absolute; background-color: white; color: black; width: auto; padding: 2px; border: 1px solid #CCCCCC; margin: 0; cursor: default; font: menu; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; z-index: 201; box-shadow: 0px 10px 20px #808080; -webkit-box-shadow: 0px 10px 20px #808080; -moz-box-shadow: 0px 10px 20px #808080; -khtml-box-shadow: 0px 10px 20px #808080; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+.MathJax_MenuItem {padding: 2px 2em; background: transparent}
+.MathJax_MenuArrow {position: absolute; right: .5em; color: #666666}
+.MathJax_MenuActive .MathJax_MenuArrow {color: white}
+.MathJax_MenuArrow.RTL {left: .5em; right: auto}
+.MathJax_MenuCheck {position: absolute; left: .7em}
+.MathJax_MenuCheck.RTL {right: .7em; left: auto}
+.MathJax_MenuRadioCheck {position: absolute; left: 1em}
+.MathJax_MenuRadioCheck.RTL {right: 1em; left: auto}
+.MathJax_MenuLabel {padding: 2px 2em 4px 1.33em; font-style: italic}
+.MathJax_MenuRule {border-top: 1px solid #CCCCCC; margin: 4px 1px 0px}
+.MathJax_MenuDisabled {color: GrayText}
+.MathJax_MenuActive {background-color: Highlight; color: HighlightText}
+.MathJax_Menu_Close {position: absolute; width: 31px; height: 31px; top: -15px; left: -15px}
+</style><style type="text/css">.MathJax_Preview .MJXc-math {color: inherit!important}
+</style><style type="text/css">#MathJax_Zoom {position: absolute; background-color: #F0F0F0; overflow: auto; display: block; z-index: 301; padding: .5em; border: 1px solid black; margin: 0; font-weight: normal; font-style: normal; text-align: left; text-indent: 0; text-transform: none; line-height: normal; letter-spacing: normal; word-spacing: normal; word-wrap: normal; white-space: nowrap; float: none; box-shadow: 5px 5px 15px #AAAAAA; -webkit-box-shadow: 5px 5px 15px #AAAAAA; -moz-box-shadow: 5px 5px 15px #AAAAAA; -khtml-box-shadow: 5px 5px 15px #AAAAAA; filter: progid:DXImageTransform.Microsoft.dropshadow(OffX=2, OffY=2, Color='gray', Positive='true')}
+#MathJax_ZoomOverlay {position: absolute; left: 0; top: 0; z-index: 300; display: inline-block; width: 100%; height: 100%; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
+#MathJax_ZoomFrame {position: relative; display: inline-block; height: 0; width: 0}
+#MathJax_ZoomEventTrap {position: absolute; left: 0; top: 0; z-index: 302; display: inline-block; border: 0; padding: 0; margin: 0; background-color: white; opacity: 0; filter: alpha(opacity=0)}
+</style><style type="text/css">.MathJax_Preview {color: #888}
+#MathJax_Message {position: fixed; left: 1em; bottom: 1.5em; background-color: #E6E6E6; border: 1px solid #959595; margin: 0px; padding: 2px 8px; z-index: 102; color: black; font-size: 80%; width: auto; white-space: nowrap}
+#MathJax_MSIE_Frame {position: absolute; top: 0; left: 0; width: 0px; z-index: 101; border: 0px; margin: 0px; padding: 0px}
+.MathJax_Error {color: #CC0000; font-style: italic}
+</style><style type="text/css">.MJXc-script {font-size: .8em}
+.MJXc-right {-webkit-transform-origin: right; -moz-transform-origin: right; -ms-transform-origin: right; -o-transform-origin: right; transform-origin: right}
+.MJXc-bold {font-weight: bold}
+.MJXc-italic {font-style: italic}
+.MJXc-scr {font-family: MathJax_Script,'Times New Roman',Times,STIXGeneral,serif}
+.MJXc-frak {font-family: MathJax_Fraktur,'Times New Roman',Times,STIXGeneral,serif}
+.MJXc-sf {font-family: MathJax_SansSerif,'Times New Roman',Times,STIXGeneral,serif}
+.MJXc-cal {font-family: MathJax_Caligraphic,'Times New Roman',Times,STIXGeneral,serif}
+.MJXc-mono {font-family: MathJax_Typewriter,'Times New Roman',Times,STIXGeneral,serif}
+.MJXc-largeop {font-size: 150%}
+.MJXc-largeop.MJXc-int {vertical-align: -.2em}
+.MJXc-math {display: inline-block; line-height: 1.2; text-indent: 0; font-family: 'Times New Roman',Times,STIXGeneral,serif; white-space: nowrap; border-collapse: collapse}
+.MJXc-display {display: block; text-align: center; margin: 1em 0}
+.MJXc-math span {display: inline-block}
+.MJXc-box {display: block!important; text-align: center}
+.MJXc-box:after {content: " "}
+.MJXc-rule {display: block!important; margin-top: .1em}
+.MJXc-char {display: block!important}
+.MJXc-mo {margin: 0 .15em}
+.MJXc-mfrac {margin: 0 .125em; vertical-align: .25em}
+.MJXc-denom {display: inline-table!important; width: 100%}
+.MJXc-denom > * {display: table-row!important}
+.MJXc-surd {vertical-align: top}
+.MJXc-surd > * {display: block!important}
+.MJXc-script-box > *  {display: table!important; height: 50%}
+.MJXc-script-box > * > * {display: table-cell!important; vertical-align: top}
+.MJXc-script-box > *:last-child > * {vertical-align: bottom}
+.MJXc-script-box > * > * > * {display: block!important}
+.MJXc-mphantom {visibility: hidden}
+.MJXc-munderover {display: inline-table!important}
+.MJXc-over {display: inline-block!important; text-align: center}
+.MJXc-over > * {display: block!important}
+.MJXc-munderover > * {display: table-row!important}
+.MJXc-mtable {vertical-align: .25em; margin: 0 .125em}
+.MJXc-mtable > * {display: inline-table!important; vertical-align: middle}
+.MJXc-mtr {display: table-row!important}
+.MJXc-mtd {display: table-cell!important; text-align: center; padding: .5em 0 0 .5em}
+.MJXc-mtr > .MJXc-mtd:first-child {padding-left: 0}
+.MJXc-mtr:first-child > .MJXc-mtd {padding-top: 0}
+.MJXc-mlabeledtr {display: table-row!important}
+.MJXc-mlabeledtr > .MJXc-mtd:first-child {padding-left: 0}
+.MJXc-mlabeledtr:first-child > .MJXc-mtd {padding-top: 0}
+.MJXc-merror {background-color: #FFFF88; color: #CC0000; border: 1px solid #CC0000; padding: 1px 3px; font-style: normal; font-size: 90%}
+.MJXc-scale0 {-webkit-transform: scaleX(.0); -moz-transform: scaleX(.0); -ms-transform: scaleX(.0); -o-transform: scaleX(.0); transform: scaleX(.0)}
+.MJXc-scale1 {-webkit-transform: scaleX(.1); -moz-transform: scaleX(.1); -ms-transform: scaleX(.1); -o-transform: scaleX(.1); transform: scaleX(.1)}
+.MJXc-scale2 {-webkit-transform: scaleX(.2); -moz-transform: scaleX(.2); -ms-transform: scaleX(.2); -o-transform: scaleX(.2); transform: scaleX(.2)}
+.MJXc-scale3 {-webkit-transform: scaleX(.3); -moz-transform: scaleX(.3); -ms-transform: scaleX(.3); -o-transform: scaleX(.3); transform: scaleX(.3)}
+.MJXc-scale4 {-webkit-transform: scaleX(.4); -moz-transform: scaleX(.4); -ms-transform: scaleX(.4); -o-transform: scaleX(.4); transform: scaleX(.4)}
+.MJXc-scale5 {-webkit-transform: scaleX(.5); -moz-transform: scaleX(.5); -ms-transform: scaleX(.5); -o-transform: scaleX(.5); transform: scaleX(.5)}
+.MJXc-scale6 {-webkit-transform: scaleX(.6); -moz-transform: scaleX(.6); -ms-transform: scaleX(.6); -o-transform: scaleX(.6); transform: scaleX(.6)}
+.MJXc-scale7 {-webkit-transform: scaleX(.7); -moz-transform: scaleX(.7); -ms-transform: scaleX(.7); -o-transform: scaleX(.7); transform: scaleX(.7)}
+.MJXc-scale8 {-webkit-transform: scaleX(.8); -moz-transform: scaleX(.8); -ms-transform: scaleX(.8); -o-transform: scaleX(.8); transform: scaleX(.8)}
+.MJXc-scale9 {-webkit-transform: scaleX(.9); -moz-transform: scaleX(.9); -ms-transform: scaleX(.9); -o-transform: scaleX(.9); transform: scaleX(.9)}
+.MathJax_CHTML .noError {vertical-align: ; font-size: 90%; text-align: left; color: black; padding: 1px 3px; border: 1px solid}
+</style></head>
+<body class="logged-in    inclass  " style="overflow: auto;"><div id="StayFocusd-infobar" style="display: none; top: 1193px;">
+    <img src="chrome-extension://laankejkbhbdhmipfmgcngdelahlfoji/common/img/eye_19x19_red.png">
+    <span id="StayFocusd-infobar-msg"></span>
+    <span id="StayFocusd-infobar-links">
+        <a id="StayFocusd-infobar-never-show">hide forever</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+        <a id="StayFocusd-infobar-hide">hide once</a>
+    </span>
+</div><div id="MathJax_Message" style="display: none;"></div>
+    <div id="wrap"><!-- needed for sticky footer -->
+<div id="menu-open-overlay"></div>
+
+<div id="header2">
+    <div id="header2-inside">    
+        <a id="logo" href="https://inclass.kaggle.com/"><img alt="Kaggle in Class" height="55" src="./Public Leaderboard - CMSC 5622  Document Classification   Kaggle in Class_files/site-logo.png" width="176"></a>
+
+            <ul id="header-ul">
+                
+            </ul>
+
+        <script>
+            jQuery(function () {
+                jQuery('#header-ul li:has(ul) > a').click(function(e) {
+                    e.preventDefault();
+                    
+                    jQuery('#header-ul li').not(jQuery(this).parent()).find('ul').removeClass('open');
+                    jQuery(this).parent().find('ul').toggleClass('open');
+                    jQuery('#menu-open-overlay').show();
+                });
+
+                jQuery('#menu-open-overlay').click( function() {
+                    jQuery('#header-ul ul').removeClass('open');
+                    jQuery('#top-bar-signin').hide();
+                    jQuery(this).hide();
+                });
+
+            });
+        </script>
+    
+        <ul id="header-control">
+                <li id="header-account"><a class="profilelink" href="https://inclass.kaggle.com/users/294161/mohammad" title="View my profile">Mohammad</a></li>
+                <li id="header-logout"><a href="https://inclass.kaggle.com/account/logoff" class="logout-link">Logout</a></li>
+        </ul>
+    </div>
+</div>
+
+
+
+        
+        
+         
+
+        <!-- header-inside and header -->
+            <div id="main">
+                
+
+
+
+
+<div id="competition">
+        <header id="comp-header">
+            <a href="https://inclass.kaggle.com/c/cmsc-5622-document-classification"><img id="comp-image" src="./Public Leaderboard - CMSC 5622  Document Classification   Kaggle in Class_files/competition-noimage-213.png" alt=""></a>
+            <div id="comp-header-details">
+                <h2>
+                    Knowledge • 
+                    <a href="https://inclass.kaggle.com/c/cmsc-5622-document-classification/leaderboard">36 teams</a>
+                </h2>
+                <h1><a href="https://inclass.kaggle.com/c/cmsc-5622-document-classification" style="font-size: 26px;">CMSC 5622: Document Classification</a>
+                </h1>
+
+                
+
+                    <div id="comp-header-stats">
+                            <div id="comp-header-stats-progress-section">
+                                <div id="comp-header-stats-progress">
+                                    <div id="comp-header-stats-teams" style="width:92%">
+                                    </div>
+                                </div>
+                                <div id="comp-progress-start"></div>
+                                <div id="comp-progress-end"></div>
+
+                                
+                                
+
+
+                            </div>
+
+                        <div id="comp-header-stats-start">
+                            Mon 26 Jan 2015
+                        </div>
+                        <div id="comp-header-stats-end">
+                            Sat 14 Feb 2015
+                                <span class="to-go-note">
+                                    (34 hours to go)
+                                </span>
+                        </div>
+                    </div>
+            </div>
+        </header>
+        <script type="text/javascript">
+            jQuery(function ($) {
+                $('#comp-header-details h1').textfill({ maxFontPixels: 26, innerTag: 'a' });
+            });
+        </script>
+
+        <div id="comp-dash-header" class="comp-sidebar">
+            
+
+<div class="_panel" id="competition-dashboard">
+    <header>
+        <h1>Dashboard</h1>
+            <div id="triangle">▼</div>
+    </header>
+    <ul id="competition-dashboard-dropdown">
+        <li class="cd-home"><a href="https://inclass.kaggle.com/c/cmsc-5622-document-classification">Home</a>
+            <ul>
+                <li class="cd-data"><a href="https://inclass.kaggle.com/c/cmsc-5622-document-classification/data">Data</a></li>
+
+                    <li class="cd-submit submission-link">
+                        <a class="comp-link" href="https://inclass.kaggle.com/c/cmsc-5622-document-classification/submit">Make a submission</a>
+                    </li>
+            </ul>
+        </li>
+        
+        <li class="cd-info">
+            <a id="open-info">Information</a>
+            <ul id="pages-flyout">
+                    <li>
+<a href="https://inclass.kaggle.com/c/cmsc-5622-document-classification">Description</a>                    </li>
+                    <li>
+<a href="https://inclass.kaggle.com/c/cmsc-5622-document-classification/details/evaluation">Evaluation</a>                    </li>
+                    <li>
+<a href="https://inclass.kaggle.com/c/cmsc-5622-document-classification/rules">Rules</a>                    </li>
+
+            </ul>
+        </li>
+
+            <li class="cd-forum"><a href="https://inclass.kaggle.com/c/cmsc-5622-document-classification/forums">Forum</a></li>
+
+            <li class="cd-leaderboard">
+                <a href="https://inclass.kaggle.com/c/cmsc-5622-document-classification/leaderboard">Leaderboard</a>
+            </li>
+
+
+                <li class="cd-team">
+                    <a href="https://inclass.kaggle.com/c/cmsc-5622-document-classification/team">My Team</a>
+                    <ul>
+                        
+                                            </ul>
+                </li>
+                <li class="cd-submissions"><a href="https://inclass.kaggle.com/c/cmsc-5622-document-classification/submissions">My Submissions</a></li>
+        
+        
+    </ul>
+</div>
+
+
+            <div id="comp-dash-header-title">
+                <h1>
+Public Leaderboard - CMSC 5622: Document Classification
+                </h1>
+            </div>
+        </div>
+
+    <div class="public-leaderboard---cmsc-5622:-document-classification-page comp-content full-width">
+        
+        <div class="comp-content-inside">
+            <div id="competition-intro">
+                
+            </div>
+
+
+
+
+
+<div id="leaderboard-conditions">
+                <p>This leaderboard is calculated on approximately 50% of the test data.<br>
+                The final results will be based on the other 50%, so the final standings may be different.</p>
+    </div>
+
+<div id="puppet-message">
+    See someone using multiple accounts?<br>
+    <a href="mailto:compliance@kaggle.com">Let us know.</a>
+</div>
+
+<div id="leaderboard-container"><table id="leaderboard-table" class="oddeventable">
+    <colgroup>
+        <col class="leader-position">
+            <col class="leader-position">
+        <col class="leader-teamname">
+            <col class="leader-metric">
+                    <col class="leader-entries">
+                    <col class="leader-latestsub">
+    </colgroup>
+
+    <tbody><tr>
+        <th>#</th>
+
+            <th title="">Δ4d</th>
+
+        <th>
+            Team Name
+    
+        </th>
+
+            <th title="Categorization Accuracy">
+                Score
+                <img src="./Public Leaderboard - CMSC 5622  Document Classification   Kaggle in Class_files/leaderboard-help-icon.png" alt="Score Help">
+            </th>
+
+            <th>Entries</th>
+
+            <th>
+                 Last Submission UTC <small>(Best − Last Submission)</small>
+            </th>
+    </tr>
+
+    
+
+        <tr id="team-144933">
+            <td class="leader-number">1</td>
+
+                <td class="delta">
+                        <span style="color:Green">↑9</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/291038/cu-habr6642" title="cu_habr6642 last submitted on 5:17 am, Thursday 12 February 2015 UTC">
+                        cu_habr6642
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.82084"></a>
+                        <abbr class="score" title="0.02807">0.82084</abbr>
+                </td>
+
+                <td>8</td>
+
+                <td>
+                        <abbr title="Last Submission: Thu, 12 Feb 2015 05:17:11 (yesterday)
+Best Submission: Thu, 12 Feb 2015 05:17:11 (yesterday)">
+                            Thu, 12 Feb 2015 05:17:11
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-143239">
+            <td class="leader-number">2</td>
+
+                <td class="delta">
+                        <span>new</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/289007/cu-chwo9116" title="CU_chwo9116 last submitted on 10:23 pm, Wednesday 11 February 2015 UTC">
+                        CU_chwo9116
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.82007"></a>
+                        <abbr class="score" title="4d improvement: none">0.82007</abbr>
+                </td>
+
+                <td>6</td>
+
+                <td>
+                        <abbr title="Last Submission: Wed, 11 Feb 2015 22:23:21 (yesterday)
+Best Submission: Wed, 11 Feb 2015 22:03:35 (yesterday)">
+                            Wed, 11 Feb 2015 22:23:21
+                                <span>(-0.3h)</span>
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-144754">
+            <td class="leader-number">3</td>
+
+                <td class="delta">
+                        <span style="color:Red">↓2</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/241266/cu-ml15" title="CU_ML15 last submitted on 7:24 am, Friday 13 February 2015 UTC">
+                        CU_ML15
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.81776"></a>
+                        <abbr class="score" title="4d improvement: none">0.81776</abbr>
+                </td>
+
+                <td>4</td>
+
+                <td>
+                        <abbr title="Last Submission: Fri, 13 Feb 2015 07:24:27 (5 hours ago)
+Best Submission: Mon, 09 Feb 2015 04:01:54 (4 days ago)">
+                            Fri, 13 Feb 2015 07:24:27
+                                <span>(-4.1d)</span>
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-144935">
+            <td class="leader-number">4</td>
+
+                <td class="delta">
+                        <span>new</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/286052/cu-huki2996" title="CU_HUKI2996 last submitted on 12:26 am, Friday 13 February 2015 UTC">
+                        CU_HUKI2996
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.81738"></a>
+                        <abbr class="score" title="4d improvement: none">0.81738</abbr>
+                </td>
+
+                <td>7</td>
+
+                <td>
+                        <abbr title="Last Submission: Fri, 13 Feb 2015 00:26:56 (12 hours ago)
+Best Submission: Thu, 12 Feb 2015 07:36:49 (yesterday)">
+                            Fri, 13 Feb 2015 00:26:56
+                                <span>(-16.8h)</span>
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-145644">
+            <td class="leader-number">5</td>
+
+                <td class="delta">
+                        <span>new</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/241907/jack-coy" title="Jack Coy last submitted on 9:30 pm, Thursday 12 February 2015 UTC">
+                        Jack Coy
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.81699"></a>
+                        <abbr class="score" title="4d improvement: none">0.81699</abbr>
+                </td>
+
+                <td>2</td>
+
+                <td>
+                        <abbr title="Last Submission: Thu, 12 Feb 2015 21:30:40 (15 hours ago)
+Best Submission: Thu, 12 Feb 2015 21:30:40 (15 hours ago)">
+                            Thu, 12 Feb 2015 21:30:40
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-143577">
+            <td class="leader-number">6</td>
+
+                <td class="delta">
+                        <span style="color:Green">↑3</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/289458/cu-fuhrmanm" title="CU_fuhrmanm last submitted on 6:47 am, Thursday 12 February 2015 UTC">
+                        CU_fuhrmanm
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.81546"></a>
+                        <abbr class="score" title="0.02038">0.81546</abbr>
+                </td>
+
+                <td>8</td>
+
+                <td>
+                        <abbr title="Last Submission: Thu, 12 Feb 2015 06:47:46 (yesterday)
+Best Submission: Tue, 10 Feb 2015 03:00:56 (3 days ago)">
+                            Thu, 12 Feb 2015 06:47:46
+                                <span>(-2.2d)</span>
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-145298">
+            <td class="leader-number">7</td>
+
+                <td class="delta">
+                        <span>new</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/292324/cucs-ml-7" title="CUCS_ML_7 last submitted on 9:29 am, Friday 13 February 2015 UTC">
+                        CUCS_ML_7
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.81546"></a>
+                        <abbr class="score" title="4d improvement: none">0.81546</abbr>
+                </td>
+
+                <td>6</td>
+
+                <td>
+                        <abbr title="Last Submission: Fri, 13 Feb 2015 09:29:51 (3 hours ago)
+Best Submission: Fri, 13 Feb 2015 09:29:51 (3 hours ago)">
+                            Fri, 13 Feb 2015 09:29:51
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-145344">
+            <td class="leader-number">8</td>
+
+                <td class="delta">
+                        <span>new</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/292449/mahnaz-r" title="Mahnaz R last submitted on 12:10 am, Friday 13 February 2015 UTC">
+                        Mahnaz R
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.81507"></a>
+                        <abbr class="score" title="4d improvement: none">0.81507</abbr>
+                </td>
+
+                <td>4</td>
+
+                <td>
+                        <abbr title="Last Submission: Fri, 13 Feb 2015 00:10:33 (12 hours ago)
+Best Submission: Fri, 13 Feb 2015 00:10:33 (12 hours ago)">
+                            Fri, 13 Feb 2015 00:10:33
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-144990">
+            <td class="leader-number">9</td>
+
+                <td class="delta">
+                        <span style="color:Green">↑4</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/291688/flyingrobin" title="flyingrobin last submitted on 7:11 pm, Thursday 12 February 2015 UTC">
+                        flyingrobin
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.81469"></a>
+                        <abbr class="score" title="0.06690">0.81469</abbr>
+                </td>
+
+                <td>4</td>
+
+                <td>
+                        <abbr title="Last Submission: Thu, 12 Feb 2015 19:11:35 (17 hours ago)
+Best Submission: Wed, 11 Feb 2015 04:49:50 (2 days ago)">
+                            Thu, 12 Feb 2015 19:11:35
+                                <span>(-38.4h)</span>
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-145531">
+            <td class="leader-number">10</td>
+
+                <td class="delta">
+                        <span>new</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/292728/joki9146" title="joki9146 last submitted on 7:04 pm, Thursday 12 February 2015 UTC">
+                        joki9146
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.81469"></a>
+                        <abbr class="score" title="4d improvement: none">0.81469</abbr>
+                </td>
+
+                <td>5</td>
+
+                <td>
+                        <abbr title="Last Submission: Thu, 12 Feb 2015 19:04:58 (18 hours ago)
+Best Submission: Thu, 12 Feb 2015 18:40:28 (18 hours ago)">
+                            Thu, 12 Feb 2015 19:04:58
+                                <span>(-0.4h)</span>
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-142587">
+            <td class="leader-number">11</td>
+
+                <td class="delta">
+                        <span style="color:Red">↓9</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/287291/kansuke" title="kansuke last submitted on 10:42 pm, Thursday 5 February 2015 UTC">
+                        kansuke
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.81353"></a>
+                        <abbr class="score" title="4d improvement: none">0.81353</abbr>
+                </td>
+
+                <td>3</td>
+
+                <td>
+                        <abbr title="Last Submission: Thu, 05 Feb 2015 22:42:01 (7 days ago)
+Best Submission: Tue, 03 Feb 2015 01:49:10 (10 days ago)">
+                            Thu, 05 Feb 2015 22:42:01
+                                <span>(-2.9d)</span>
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-142011">
+            <td class="leader-number">12</td>
+
+                <td class="delta">
+                        <span style="color:Red">↓9</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/286939/alvin" title="Alvin last submitted on 3:49 am, Friday 6 February 2015 UTC">
+                        Alvin
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.81315"></a>
+                        <abbr class="score" title="4d improvement: none">0.81315</abbr>
+                </td>
+
+                <td>11</td>
+
+                <td>
+                        <abbr title="Last Submission: Fri, 06 Feb 2015 03:49:31 (7 days ago)
+Best Submission: Tue, 03 Feb 2015 05:48:44 (10 days ago)">
+                            Fri, 06 Feb 2015 03:49:31
+                                <span>(-2.9d)</span>
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-144779">
+            <td class="leader-number">13</td>
+
+                <td class="delta">
+                        <span style="color:Red">↓1</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/242197/cu-saki8918" title="CU_saki8918 last submitted on 1:31 am, Thursday 12 February 2015 UTC">
+                        CU_saki8918
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.81315"></a>
+                        <abbr class="score" title="0.02960">0.81315</abbr>
+                </td>
+
+                <td>10</td>
+
+                <td>
+                        <abbr title="Last Submission: Thu, 12 Feb 2015 01:31:19 (yesterday)
+Best Submission: Tue, 10 Feb 2015 01:47:06 (3 days ago)">
+                            Thu, 12 Feb 2015 01:31:19
+                                <span>(-47.7h)</span>
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-145791">
+            <td class="leader-number">14</td>
+
+                <td class="delta">
+                        <span>new</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/241546/kahini-wadhawan" title="Kahini Wadhawan last submitted on 10:45 pm, Thursday 12 February 2015 UTC">
+                        Kahini Wadhawan
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.81315"></a>
+                        <abbr class="score" title="4d improvement: none">0.81315</abbr>
+                </td>
+
+                <td>3</td>
+
+                <td>
+                        <abbr title="Last Submission: Thu, 12 Feb 2015 22:45:17 (14 hours ago)
+Best Submission: Wed, 11 Feb 2015 21:25:58 (yesterday)">
+                            Thu, 12 Feb 2015 22:45:17
+                                <span>(-25.3h)</span>
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-145670">
+            <td class="leader-number">15</td>
+
+                <td class="delta">
+                        <span>new</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/293103/cu-dayo0810" title="CU_dayo0810 last submitted on 3:23 am, Thursday 12 February 2015 UTC">
+                        CU_dayo0810
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.81315"></a>
+                        <abbr class="score" title="4d improvement: none">0.81315</abbr>
+                </td>
+
+                <td>2</td>
+
+                <td>
+                        <abbr title="Last Submission: Thu, 12 Feb 2015 03:23:04 (yesterday)
+Best Submission: Thu, 12 Feb 2015 03:23:04 (yesterday)">
+                            Thu, 12 Feb 2015 03:23:04
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-145991">
+            <td class="leader-number">16</td>
+
+                <td class="delta">
+                        <span>new</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/288724/nickcu" title="NickCU last submitted on 10:02 pm, Thursday 12 February 2015 UTC">
+                        NickCU
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.81315"></a>
+                        <abbr class="score" title="4d improvement: none">0.81315</abbr>
+                </td>
+
+                <td>1</td>
+
+                <td>
+                        <abbr title="Last Submission: Thu, 12 Feb 2015 22:02:57 (15 hours ago)
+Best Submission: Thu, 12 Feb 2015 22:02:57 (15 hours ago)">
+                            Thu, 12 Feb 2015 22:02:57
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-144918">
+            <td class="leader-number">17</td>
+
+                <td class="delta">
+                        <span style="color:Red">↓6</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/291295/yuqing-xia" title="Yuqing Xia last submitted on 9:53 pm, Wednesday 11 February 2015 UTC">
+                        Yuqing Xia
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.81161"></a>
+                        <abbr class="score" title="0.02499">0.81161</abbr>
+                </td>
+
+                <td>3</td>
+
+                <td>
+                        <abbr title="Last Submission: Wed, 11 Feb 2015 21:53:22 (yesterday)
+Best Submission: Wed, 11 Feb 2015 21:53:22 (yesterday)">
+                            Wed, 11 Feb 2015 21:53:22
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-142400">
+            <td class="leader-number">18</td>
+
+                <td class="delta">
+                        <span>new</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/287701/cu-anderstj-jennings" title="CU_anderstj (Jennings) last submitted on 12:29 am, Friday 13 February 2015 UTC">
+                        Jennings
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.81123"></a>
+                        <abbr class="score" title="4d improvement: none">0.81123</abbr>
+                </td>
+
+                <td>8</td>
+
+                <td>
+                        <abbr title="Last Submission: Fri, 13 Feb 2015 00:29:13 (12 hours ago)
+Best Submission: Tue, 10 Feb 2015 05:52:51 (3 days ago)">
+                            Fri, 13 Feb 2015 00:29:13
+                                <span>(-2.8d)</span>
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-142637">
+            <td class="leader-number">19</td>
+
+                <td class="delta">
+                        <span style="color:Red">↓15</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/288100/codeasaurus" title="Codeasaurus last submitted on 1:03 am, Tuesday 3 February 2015 UTC">
+                        Codeasaurus
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.81084"></a>
+                        <abbr class="score" title="4d improvement: none">0.81084</abbr>
+                </td>
+
+                <td>5</td>
+
+                <td>
+                        <abbr title="Last Submission: Tue, 03 Feb 2015 01:03:38 (10 days ago)
+Best Submission: Tue, 03 Feb 2015 01:03:38 (10 days ago)">
+                            Tue, 03 Feb 2015 01:03:38
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-142862">
+            <td class="leader-number">20</td>
+
+                <td class="delta">
+                        <span style="color:Red">↓15</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/288465/cu-pahe3165" title="CU_PAHE3165 last submitted on 3:51 am, Monday 9 February 2015 UTC">
+                        Elodin
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.81084"></a>
+                        <abbr class="score" title="4d improvement: none">0.81084</abbr>
+                </td>
+
+                <td>7</td>
+
+                <td>
+                        <abbr title="Last Submission: Mon, 09 Feb 2015 03:51:28 (4 days ago)
+Best Submission: Mon, 09 Feb 2015 03:51:28 (4 days ago)">
+                            Mon, 09 Feb 2015 03:51:28
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-142092">
+            <td class="leader-number">21</td>
+
+                <td class="delta">
+                        <span style="color:Red">↓14</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/241548/siva-palakurthi" title="Siva Palakurthi last submitted on 5:24 am, Friday 13 February 2015 UTC">
+                        Siva Palakurthi
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.81046"></a>
+                        <abbr class="score" title="0.01038">0.81046</abbr>
+                </td>
+
+                <td>13</td>
+
+                <td>
+                        <abbr title="Last Submission: Fri, 13 Feb 2015 05:24:30 (7 hours ago)
+Best Submission: Fri, 13 Feb 2015 05:24:30 (7 hours ago)">
+                            Fri, 13 Feb 2015 05:24:30
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-146065">
+            <td class="leader-number">22</td>
+
+                <td class="delta">
+                        <span>new</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/293986/chris-g" title="Chris G last submitted on 4:03 am, Friday 13 February 2015 UTC">
+                        Chris G
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.80930"></a>
+                        <abbr class="score" title="4d improvement: none">0.80930</abbr>
+                </td>
+
+                <td>1</td>
+
+                <td>
+                        <abbr title="Last Submission: Fri, 13 Feb 2015 04:03:47 (9 hours ago)
+Best Submission: Fri, 13 Feb 2015 04:03:47 (9 hours ago)">
+                            Fri, 13 Feb 2015 04:03:47
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-146044">
+            <td class="leader-number">23</td>
+
+                <td class="delta">
+                        <span>new</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/240884/feno3832" title="feno3832 last submitted on 7:48 am, Friday 13 February 2015 UTC">
+                        feno3832
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.80892"></a>
+                        <abbr class="score" title="4d improvement: none">0.80892</abbr>
+                </td>
+
+                <td>1</td>
+
+                <td>
+                        <abbr title="Last Submission: Fri, 13 Feb 2015 07:48:56 (5 hours ago)
+Best Submission: Fri, 13 Feb 2015 07:48:56 (5 hours ago)">
+                            Fri, 13 Feb 2015 07:48:56
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-142562">
+            <td class="leader-number">24</td>
+
+                <td class="delta">
+                        <span style="color:Red">↓18</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/284537/garrett" title="Garrett last submitted on 5:39 am, Saturday 7 February 2015 UTC">
+                        Garrett
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.80661"></a>
+                        <abbr class="score" title="4d improvement: none">0.80661</abbr>
+                </td>
+
+                <td>8</td>
+
+                <td>
+                        <abbr title="Last Submission: Sat, 07 Feb 2015 05:39:28 (6 days ago)
+Best Submission: Sat, 07 Feb 2015 05:26:00 (6 days ago)">
+                            Sat, 07 Feb 2015 05:39:28
+                                <span>(-0.2h)</span>
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-146025">
+            <td class="leader-number">25</td>
+
+                <td class="delta">
+                        <span>new</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/293901/cu-mico8428" title="CU_mico8428 last submitted on 3:32 am, Friday 13 February 2015 UTC">
+                        CU_mico8428
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.80469"></a>
+                        <abbr class="score" title="4d improvement: none">0.80469</abbr>
+                </td>
+
+                <td>2</td>
+
+                <td>
+                        <abbr title="Last Submission: Fri, 13 Feb 2015 03:32:57 (9 hours ago)
+Best Submission: Fri, 13 Feb 2015 03:31:33 (9 hours ago)">
+                            Fri, 13 Feb 2015 03:32:57
+                                <span>(-0h)</span>
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-142650">
+            <td class="leader-number">26</td>
+
+                <td class="delta">
+                        <span>new</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/288135/mohammed-al-rumaih" title="Mohammed Al Rumaih last submitted on 2:40 am, Friday 13 February 2015 UTC">
+                        Mohammed Al Rumaih
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.80277"></a>
+                        <abbr class="score" title="4d improvement: none">0.80277</abbr>
+                </td>
+
+                <td>2</td>
+
+                <td>
+                        <abbr title="Last Submission: Fri, 13 Feb 2015 02:40:39 (10 hours ago)
+Best Submission: Fri, 13 Feb 2015 02:40:39 (10 hours ago)">
+                            Fri, 13 Feb 2015 02:40:39
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-145590">
+            <td class="leader-number">27</td>
+
+                <td class="delta">
+                        <span>new</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/292904/cu-dazu4561" title="CU_dazu4561 last submitted on 2:41 am, Friday 13 February 2015 UTC">
+                        Daniel Zukowski
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.80161"></a>
+                        <abbr class="score" title="4d improvement: none">0.80161</abbr>
+                </td>
+
+                <td>4</td>
+
+                <td>
+                        <abbr title="Last Submission: Fri, 13 Feb 2015 02:41:35 (10 hours ago)
+Best Submission: Fri, 13 Feb 2015 02:41:35 (10 hours ago)">
+                            Fri, 13 Feb 2015 02:41:35
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-143581">
+            <td class="leader-number">28</td>
+
+                <td class="delta">
+                        <span>new</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/289335/elizabeth" title="Elizabeth last submitted on 5:26 am, Friday 13 February 2015 UTC">
+                        Elizabeth
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.80123"></a>
+                        <abbr class="score" title="4d improvement: none">0.80123</abbr>
+                </td>
+
+                <td>3</td>
+
+                <td>
+                        <abbr title="Last Submission: Fri, 13 Feb 2015 05:26:25 (7 hours ago)
+Best Submission: Wed, 11 Feb 2015 02:39:00 (2 days ago)">
+                            Fri, 13 Feb 2015 05:26:25
+                                <span>(-2.1d)</span>
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-145809">
+            <td class="leader-number">29</td>
+
+                <td class="delta">
+                        <span>new</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/293300/alge6158" title="alge6158 last submitted on 1:11 am, Thursday 12 February 2015 UTC">
+                        alge6158
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.80123"></a>
+                        <abbr class="score" title="4d improvement: none">0.80123</abbr>
+                </td>
+
+                <td>2</td>
+
+                <td>
+                        <abbr title="Last Submission: Thu, 12 Feb 2015 01:11:24 (yesterday)
+Best Submission: Thu, 12 Feb 2015 01:11:24 (yesterday)">
+                            Thu, 12 Feb 2015 01:11:24
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-146037">
+            <td class="leader-number">30</td>
+
+                <td class="delta">
+                        <span>new</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/242026/aaron-holt" title="Aaron Holt last submitted on 2:51 am, Friday 13 February 2015 UTC">
+                        Aaron Holt
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.80046"></a>
+                        <abbr class="score" title="4d improvement: none">0.80046</abbr>
+                </td>
+
+                <td>2</td>
+
+                <td>
+                        <abbr title="Last Submission: Fri, 13 Feb 2015 02:51:20 (10 hours ago)
+Best Submission: Fri, 13 Feb 2015 02:51:20 (10 hours ago)">
+                            Fri, 13 Feb 2015 02:51:20
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-144969">
+            <td class="leader-number">31</td>
+
+                <td class="delta">
+                        <span style="color:Red">↓23</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/241474/krishna-chaitanya-sripada" title="Krishna Chaitanya Sripada last submitted on 12:00 am, Friday 13 February 2015 UTC">
+                        Krishna Chaitanya Sripada
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.79777"></a>
+                        <abbr class="score" title="4d improvement: none">0.79777</abbr>
+                </td>
+
+                <td>8</td>
+
+                <td>
+                        <abbr title="Last Submission: Fri, 13 Feb 2015 00:00:39 (13 hours ago)
+Best Submission: Mon, 09 Feb 2015 03:13:40 (4 days ago)">
+                            Fri, 13 Feb 2015 00:00:39
+                                <span>(-3.9d)</span>
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-145889">
+            <td class="leader-number">32</td>
+
+                <td class="delta">
+                        <span>new</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/293582/david-duncan" title="David Duncan last submitted on 9:08 am, Thursday 12 February 2015 UTC">
+                        David Duncan
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.79354"></a>
+                        <abbr class="score" title="4d improvement: none">0.79354</abbr>
+                </td>
+
+                <td>1</td>
+
+                <td>
+                        <abbr title="Last Submission: Thu, 12 Feb 2015 09:08:51 (yesterday)
+Best Submission: Thu, 12 Feb 2015 09:08:51 (yesterday)">
+                            Thu, 12 Feb 2015 09:08:51
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-145865">
+            <td class="leader-number">33</td>
+
+                <td class="delta">
+                        <span>new</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/241568/cu-mara3483" title="CU_mara3483 last submitted on 9:04 pm, Thursday 12 February 2015 UTC">
+                        cu_mara3483
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.78547"></a>
+                        <abbr class="score" title="4d improvement: none">0.78547</abbr>
+                </td>
+
+                <td>1</td>
+
+                <td>
+                        <abbr title="Last Submission: Thu, 12 Feb 2015 21:04:56 (16 hours ago)
+Best Submission: Thu, 12 Feb 2015 21:04:56 (16 hours ago)">
+                            Thu, 12 Feb 2015 21:04:56
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-146077">
+            <td class="leader-number">34</td>
+
+                <td class="delta">
+                        <span>new</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/291288/tom-amedro" title="Tom Amedro last submitted on 5:35 am, Friday 13 February 2015 UTC">
+                        Tom Amedro
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.77970"></a>
+                        <abbr class="score" title="4d improvement: none">0.77970</abbr>
+                </td>
+
+                <td>2</td>
+
+                <td>
+                        <abbr title="Last Submission: Fri, 13 Feb 2015 05:35:40 (7 hours ago)
+Best Submission: Fri, 13 Feb 2015 04:53:35 (8 hours ago)">
+                            Fri, 13 Feb 2015 05:35:40
+                                <span>(-0.7h)</span>
+                        </abbr>
+                </td>
+        </tr>
+        <tr id="team-146147" class="my-submission scroll-to help">
+            <td class="leader-number">35</td>
+
+                <td class="delta">
+                        <span>new</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/294161/mohammad" title="Mohammad last submitted on 1:06 pm, Friday 13 February 2015 UTC">
+                        Mohammad
+                    </a>
+
+                    <div class="submission-results" style="display: none;">
+                             Congratulations on making your first submission! <br>
+                            <a class="self-tweet-button" href="http://twitter.com/home?status=Made+my+first+%23kaggle+submission+and+all+I+got+was+this+lousy+tweet.+https%3a%2f%2finclass.kaggle.com%2fc%2fcmsc-5622-document-classification" target="_blank"><img src="./Public Leaderboard - CMSC 5622  Document Classification   Kaggle in Class_files/tweet.png" height="32" width="32"> Tweet this!</a>
+                            <br>
+                    </div>
+            </td>
+
+                <td>
+                    <a name="0.75740"></a>
+                        <abbr class="score" title="4d improvement: none">0.75740</abbr>
+                </td>
+
+                <td>1</td>
+
+                <td>
+                        <abbr title="Last Submission: Fri, 13 Feb 2015 13:06:21 (4 seconds ago)
+Best Submission: Fri, 13 Feb 2015 13:06:21 (4 seconds ago)">
+                            Fri, 13 Feb 2015 13:06:21
+                        </abbr>
+                </td>
+        </tr><tr><td colspan="6" class="submission-result undefined"><h3>Your Best Entry ↑</h3>
+                             Congratulations on making your first submission! <br>
+                            <a class="self-tweet-button" href="http://twitter.com/home?status=Made+my+first+%23kaggle+submission+and+all+I+got+was+this+lousy+tweet.+https%3a%2f%2finclass.kaggle.com%2fc%2fcmsc-5622-document-classification" target="_blank"><img src="./Public Leaderboard - CMSC 5622  Document Classification   Kaggle in Class_files/tweet.png" height="32" width="32"> Tweet this!</a>
+                            <br>
+                    </td></tr>
+        <tr id="team-144887">
+            <td class="leader-number">36</td>
+
+                <td class="delta">
+                        <span style="color:Red">↓22</span>
+                </td>
+
+            <td>
+                    <a class="team-link single-player" target="_blank" href="https://inclass.kaggle.com/users/243128/anas" title="Anas last submitted on 12:21 am, Wednesday 11 February 2015 UTC">
+                        Anas
+                    </a>
+
+            </td>
+
+                <td>
+                    <a name="0.73702"></a>
+                        <abbr class="score" title="4d improvement: none">0.73702</abbr>
+                </td>
+
+                <td>2</td>
+
+                <td>
+                        <abbr title="Last Submission: Wed, 11 Feb 2015 00:21:07 (2 days ago)
+Best Submission: Sun, 08 Feb 2015 21:10:40 (4 days ago)">
+                            Wed, 11 Feb 2015 00:21:07
+                                <span>(-2.1d)</span>
+                        </abbr>
+                </td>
+        </tr>
+
+    </tbody></table>
+</div>
+
+    <div class="table-footer">
+        <a href="https://inclass.kaggle.com/c/4226/publicleaderboarddata.zip" class="raw-data">Download raw data</a>
+    </div>
+
+<script type="text/javascript">
+    (function($) {
+        $.fn.tooltip = function(thisitem, title, contentclass, width, persistent) {
+            if (title != '') {
+                title = '<h3>' + title + '</h3>';
+            }
+
+            var hoverText = title + thisitem.find(contentclass).html();
+            thisitem.addClass('help').find(contentclass).hide();
+
+            var addClass;
+            if ($(thisitem).hasClass('benchmark')) {
+                addClass = "bench";
+            }
+
+            $(thisitem).after('<tr><td colspan="6" class="submission-result ' + addClass + '">' + hoverText + '</td></tr>')
+            
+        };
+
+        
+        $('#leaderboard-table').on('click', 'a.team-link.team-player', function() {
+            $(this).siblings('ul.team-members').slideToggle('fast');
+            return false;
+        });
+
+        
+        $('#leaderboard-table tr.benchmark').each(function () {
+            $(this).tooltip($(this), 'Benchmark Info', '.benchmark-details');
+        });
+    })(jQuery);
+</script>
+
+    <!-- overlay -->
+    <div id="overlay-background" style="display: none;">
+        <div id="overlay-inside" style="margin-top: 228.5px;">
+            <div id="processing" style="display: block;">
+                <div id="calculating-img" alt="Calculating"></div>
+                <div id="progress-wait" style="display: none;">
+                    <div id="progress-wait-bar" class="progress-bar secondary"><span id="total-pending">12</span> ahead of yours. Should take about <span id="progress-wait-seconds">0</span> seconds</div>
+                </div>
+                <div id="progress-score" style="display: none;">
+                    <div id="progress-score-bar" class="progress-bar primary" style="background-size: 100%;"><span id="progress-score-label">Scoring should take about </span><span id="progress-score-seconds">0</span> seconds</div>
+                </div>
+                <div id="processing-message">Data mining? They should call it data youring!</div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+        (function($) {
+            var confirmedSubmissionWarning = false;
+            var callbackUrl = '/competitions/submissions/submissionStatus?id=1254940';
+            var refreshUrl = '/c/cmsc-5622-document-classification/partial/leaderboard?submissionId=1254940';
+            var messages = new Array(
+                'Discovering your KGI (Kaggle Greatness Index)...',
+                'Taking your entry for a test drive...',
+                'Coming to terms with your brilliance...',
+                'Teaching your submission to our robots...',
+                'Planning for your ascendency...',
+                'Adding more hamsters to the evaluation servers...',
+                'You call ::this:: big data? ...',
+                'Wiring more money to our cloud provider...',
+                'First-in-first-out? This could take a while...',
+                'Data mining? They should call it data youring!',
+                'Something tells me this isn\'t your first csv file ;)',
+                'You take the artificial out of AI...',
+                'All models are wrong. Yours are just useful...',
+                'Checking that Bayes\' theorem is still true...',
+                'Making a call to Watson to check this for you...',
+                'We are going to need more mechanical turks...',
+                'No free lunch? Not after you win this thing...',
+                'Deep learning is shallow next to the depths of your greatness...',
+                'Reserving the local university teraflop cluster...',
+                'Is this Bayesian? You know I\'m a strict Bayesian, right?',
+                'What has 64 cores and 128GB RAM? Not me! Hold tight...',
+                'Entering these into the TI-89 as fast as we can...',
+                'No whammies no whammies no whammies...',
+                'I can feel it. This one is worth lots of points...'
+            );
+            var countdownTimer;
+
+            function placeOnLeaderboard(isWaiting, totalPending, scoreTime) {
+                
+                $.get(callbackUrl + '&isWaiting=' + isWaiting + '&totalPending=' + totalPending, function(data) {
+                    status = data.status;
+
+                    
+                    if (confirmedSubmissionWarning == true) {
+                        status = 'success';
+                    }
+
+                    if (status == 'waiting') {
+                        $('#total-pending').text(data.totalPending);
+                        placeOnLeaderboard(isWaiting, data.totalPending, scoreTime);
+                    } else if (status == 'scoring') {
+                        if (isWaiting) {
+                            isWaiting = false;
+                            clearInterval(countdownTimer);
+                            $('#progress-wait-seconds').text(0);
+                            $('#total-pending').text(0);
+                            $('#progress-wait-bar').stop();
+                            $('#progress-wait-bar').animate({ backgroundSize: '100%' }, 500);
+                            $('#progress-wait-bar').text('Scoring...');
+                            //$('#progress-score-label').text('');
+                            $('#progress-score-bar').animate({ backgroundSize: '100%' }, scoreTime, 'linear');
+                            startSecondsCountdown($('#progress-score-seconds'));
+                        }
+                        placeOnLeaderboard(isWaiting, totalPending, scoreTime);
+                    } else if (status == 'success') {
+                        $('#progress-score-bar').stop();
+                        $('#progress-score-bar').animate({ backgroundSize: '100%' }, 500);
+                        clearInterval(countdownTimer);
+                        $('#progress-score-seconds').text(0);
+
+                        loadSubmissionOnLeaderboard();
+                    } else if (status == 'error') {
+                        $('#processing-message').html(data.error + '.<div class="processing-actions"><a href="javascript: history.go(-1)">Try again</a> or <a href="' + data.moreDetailsUrl + '" target="_blank">go to submissions page</a></div>').addClass('error');
+                        $('#calculating-img').attr('src', '/Content/shared/img/calculatingStop.gif');
+                    
+                    } else if (status == 'warning') {
+                        $('#processing-message').html(data.error + '.<div class="processing-actions">Please <a href="" class="confirm-submission-warning">confirm that we should ignore this.</a></div>').addClass('warning');
+                        $('#calculating-img').attr('src', '/Content/shared/img/calculatingStop.gif');
+                        $('.confirm-submission-warning').click(function(e) {
+                            e.preventDefault();
+                            confirmedSubmissionWarning = true;
+                            placeOnLeaderboard();
+                        });
+
+                    } else if (status == 'timeout') {
+                        $('#processing-message').html('Your entry is taking awhile to score. Try waiting a few minutes and then refresh this page. Do not submit the same entry again or it will be counted twice.').addClass('timeout');
+                        $('#calculating-img').attr('src', '/Content/shared/img/calculatingStop.gif');
+                    }
+                });
+            }
+
+            function loadSubmissionOnLeaderboard() {
+                $('#leaderboard-container').load(refreshUrl, function() {
+                    $('#overlay-background').fadeOut(500); // hide bg
+                    $('body').css("overflow", "auto"); // hide scrollbars
+
+                    var $a = $('tr.scroll-to');
+                    var h3 = $a.hasClass('closed-comp-submission')
+                        ? 'Post-Deadline Entry'
+                        : 'Your Best Entry ↑';
+
+                    $(this).tooltip($a, h3, '.submission-results', 360, true);
+
+                    
+                    $('#leaderboard-table').on('click', 'a.team-link.team-player', function() {
+                        $(this).siblings('ul.team-members').slideToggle('fast');
+                        return false;
+                    });
+
+                    
+                    $('#leaderboard-table tr.benchmark').each(function() {
+                        $(this).tooltip($(this), 'Benchmark Info', '.benchmark-details');
+                    });
+
+
+                    setTimeout(function() {
+                        $.scrollTo('tr.scroll-to', 1000, { axis: 'y', offset: -200, easing: 'easeOutExpo' });
+                    }, 500);
+                });
+            }
+
+            function setSecondsCountdown(label, milliseconds) {
+                var seconds = Math.floor(milliseconds / 1000);
+                $(label).text(seconds);
+            }
+            
+            function startSecondsCountdown(label){
+                var seconds = parseInt($(label).text());
+                countdownTimer = setInterval(function() {
+                    seconds--;
+                    if (seconds == 0) {
+                        clearInterval(countdownTimer);
+                    }
+                    label.text(seconds);
+                }, 1000);
+            }
+
+            $(function() {
+                //debugger;
+
+                var isPending = true;
+
+                if (isPending) {
+                    $("body").css("overflow", "hidden"); // hide scrollbars
+
+                    
+                    var divheight = 300;
+                    var h = $(window).height();
+                    $('#overlay-inside').css('margin-top', (h > divheight) ? ((h - divheight) / 2) : 20);
+
+                    var thresholdToShowBar = 2000;
+                    var waitTime = 760;
+                    var scoreTime = 351;
+                    var totalPending = 12;
+                    var isWaiting = waitTime >= thresholdToShowBar;
+
+                    if (waitTime < thresholdToShowBar) {
+                        $('#progress-wait').css('display', 'none');
+                    }
+                    if (scoreTime < thresholdToShowBar) {
+                        $('#progress-score').css('display', 'none');
+                    }
+
+                    setSecondsCountdown($('#progress-wait-seconds'), waitTime);
+                    setSecondsCountdown($('#progress-score-seconds'), scoreTime);
+
+                    if (isWaiting) {
+                        $('#progress-wait-bar').animate({ backgroundSize: '100%' }, waitTime, 'linear');
+                        startSecondsCountdown($('#progress-wait-seconds'));
+                    } else {
+                        //$('#progress-score-label').text('Scoring... ');
+                        $('#progress-score-bar').animate({ backgroundSize: '100%' }, scoreTime, 'linear');
+                        startSecondsCountdown($('#progress-score-seconds'));
+                    }
+
+                    $('#total-pending').text(totalPending);
+
+                    $('#processing').show();
+                
+                    
+                    $('#processing-message').text(
+                        messages[Math.floor(Math.random() * (messages.length))]
+                    );
+
+                    placeOnLeaderboard(isWaiting, totalPending, scoreTime);
+                } else {
+                    loadSubmissionOnLeaderboard();
+                }
+            });
+        })(jQuery);
+    </script>
+    <!-- end overlay -->
+        </div>
+    </div>
+</div>
+
+            </div>
+    </div> <!-- wrap -->   
+    <div id="footer">
+        <div id="footer-inside">
+            <div id="footer-social">
+                    <div id="social-links">
+            <a class="twitter" href="http://www.twitter.com/kaggle" title="Follow Kaggle in Class on Twitter"></a>     
+                    <a class="facebook" href="http://www.facebook.com/kaggle" title="Follow Kaggle in Class on Facebook"></a>           
+                    <a class="linkedin" href="http://www.linkedin.com/companies/kaggle" title="Follow Kaggle in Class on LinkedIn"></a>        
+    </div><!-- social-links -->
+
+            </div>
+            <div id="footer-copyright">
+                
+
+
+© 2015 Kaggle Inc            </div>
+            <div id="footer-links">
+                <a href="https://www.kaggle.com/terms">Terms &amp; Conditions</a> •  
+<a href="https://www.kaggle.com/privacy">Privacy Policy</a> •  
+<a href="https://www.kaggle.com/team">Our Team</a> •  
+<a href="https://inclass.kaggle.com/contact/press">Press</a> •  
+<a href="https://www.kaggle.com/papers">Academic Papers</a> •  
+<a href="https://inclass.kaggle.com/Home/contact">Contact Us</a>
+            </div> <!-- footer-links -->
+        </div> <!-- footer-inside -->
+    </div> <!--footer-->
+    
+        <script type="text/x-mathjax-config;executed=true">
+            MathJax.Hub.Config({
+                "HTML-CSS": {
+                    preferredFont: "TeX",
+                    availableFonts: ["STIX","TeX"],
+                    linebreaks: {
+                        automatic: true
+                    },
+                    EqnChunk: (MathJax.Hub.Browser.isMobile ? 10 : 50)
+                },
+                tex2jax: {
+                    inlineMath: [ ["\\\\(","\\\\)"] ],
+                    displayMath: [ ["$$","$$"], ["\\[", "\\]"] ],
+                    processEscapes: true,
+                    ignoreClass: "tex2jax_ignore|dno"
+                },
+                TeX: {
+                    noUndefined: {
+                        attributes: {
+                            mathcolor: "red",
+                            mathbackground: "#FFEEEE",
+                            mathsize: "90%"
+                        }
+                    }
+                },
+                messageStyle: "none"
+            });
+        </script>
+                <script type="text/javascript" src="./Public Leaderboard - CMSC 5622  Document Classification   Kaggle in Class_files/head.load-0.96.min.js"></script>
+            <script type="text/javascript">
+                head.js("https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML");
+            </script><script type="text/javascript" src="./Public Leaderboard - CMSC 5622  Document Classification   Kaggle in Class_files/MathJax.js"></script>
+    
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-12629138-1']);
+            _gaq.push(['_trackPageview']);
+            _gaq.push(['_trackPageLoadTime']);
+            _gaq.push(['_setCustomVar', 1, 'usertype', 'registered', 2]);
+                _gaq.push(['_setCustomVar', 2, 'userid', '294161', 2]);
+
+            (function () {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+        <script type="text/javascript">
+        /**
+        * Function that tracks a click on an outbound link in Google Analytics.
+        * This function takes a valid URL string as an argument, and uses that URL string
+        * as the event label.
+        * See: https://support.google.com/analytics/answer/1136920?hl=en
+        */
+        var trackOutboundLink = function(url) {
+            ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
+              function () {
+                  document.location = url;
+              }
+            });
+        }
+        </script>
+
+    
+
+    <!-- Hiya 71.196.139.215! Cheers, RD00155D4883B7p -->
+
+
+</body></html>

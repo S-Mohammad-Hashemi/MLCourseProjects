@@ -1,0 +1,146 @@
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+1600
+1700
+1800
+1900
+2000
+2100
+2200
+2300
+2400
+2500
+2600
+2700
+2800
+2900
+3000
+3100
+3200
+3300
+3400
+3500
+3600
+3700
+3800
+3900
+4000
+4100
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+1600
+1700
+1800
+1900
+2000
+2100
+2200
+2300
+2400
+2500
+2600
+2700
+2800
+2900
+3000
+3100
+3200
+3300
+3400
+3500
+3600
+3700
+3800
+3900
+4000
+4100
+Michel Mayor used astrometric data provided Hipparcos conjunction radial velocity method investigate candidates S Ori has lowest mass known release substantial amounts infrared radiation Known fuse deuterium small scale was coined Jill Tarter Gliese was first be confirmed maximum mass believed be approximately times mass Jupiter largest mass insufficient normal hydrogen fusion dimmest least massive star sometimes referred as failed star. 
+her!!!!!!!!!!!!!!eeee
+Astronomy: source solar constellation catalog messier galaxies methane discovered nebula moon
+Biology: occurs blood cells vitamin amino disease gene pathway enzymes enzyme
+Chemistry: ion letter alkenes results interactions gas chemist groups carbon reaction
+Earth Science: chief stages mineral zone epoch existence low zones source discontinuity
+Fine Arts: blue depicts theme shows designed artist painting pointsname composer opera
+Geography: strait darya home connects evidence swamp harbor mt naval water
+History: party treaty vice court rebellion henry dynasty great legislation elected
+Literature: novels story comedy writer written mr poetry character poet poems
+Mathematics: topological lemma developed algorithms mathematician degree space set theorem polynomial
+Other: molecules season team film band album songs rock played movie
+Physics: excited power mass one particles field phase physics given physicist
+Science: rays organelles rate expressed property operation numbers element entities objects
+Social Science: greek status anthropologist voyage philosophical to deity thinker uh types
+Social Studies: principles economist money feast religion mountains county population argued psychologist
+TRAIN
+-------------------------
+Accuracy: 1.000000
+Astronomy	Biology	Chemistry	Earth Science	Fine Arts	Geography	History	Literature	Mathematics	Other	Physics	Science	Social Science	Social Studies
+24	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	121	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	108	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	15	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	392	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	24	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	665	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	788	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	63	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	240	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	134	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	113	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	124	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	521
+TEST
+-------------------------
+Accuracy: 0.705529
+Astronomy	Biology	Chemistry	Earth Science	Fine Arts	Geography	History	Literature	Mathematics	Other	Physics	Science	Social Science	Social Studies
+2	0	0	0	0	0	1	0	0	0	1	0	0	2
+0	25	3	0	0	0	0	1	0	0	1	0	0	0
+1	0	14	0	0	0	1	1	0	2	4	4	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	3
+0	0	0	0	73	0	7	9	0	4	0	1	2	2
+0	0	0	1	0	1	1	0	0	0	0	0	0	4
+0	0	1	0	1	0	152	1	0	5	0	0	0	6
+0	3	0	0	2	0	6	173	1	6	0	0	0	6
+0	1	1	0	0	0	2	0	9	0	0	1	1	0
+0	1	1	0	2	0	12	12	1	29	0	0	0	2
+0	0	5	1	0	4	0	0	3	0	14	7	0	0
+0	5	5	1	0	0	0	0	1	0	4	9	2	1
+0	0	0	0	0	0	2	6	1	1	0	0	7	14
+0	0	1	1	4	0	18	16	3	0	1	3	4	79
+('was', 'History')	4
+('character', 'Literature')	4
+('man', 'Literature')	4
+('quantity', 'Physics')	2
+('author', 'Literature')	2
+('first', 'Literature')	2
+('point', 'Literature')	2
+('wrote', 'Literature')	2
+('man', 'Social Studies')	2
+('man', 'History')	2

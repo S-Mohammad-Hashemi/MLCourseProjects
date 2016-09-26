@@ -1,0 +1,5204 @@
+id,cat
+111447,Social Studies
+123786,Astronomy
+120249,Astronomy
+102735,Astronomy
+108684,Astronomy
+117225,Science
+102177,Astronomy
+102096,Social Science
+111843,Physics
+102636,Astronomy
+117486,Astronomy
+113022,Astronomy
+118008,Astronomy
+109440,Astronomy
+7956,Astronomy
+7965,History
+7974,Astronomy
+7983,Astronomy
+7992,Astronomy
+8001,Astronomy
+8010,Other
+8019,Astronomy
+8028,Physics
+8037,Astronomy
+8046,Astronomy
+8055,Astronomy
+8064,Astronomy
+8073,Physics
+8082,Literature
+8091,Social Studies
+8100,Astronomy
+8109,Social Studies
+8118,Astronomy
+8127,Astronomy
+8136,Science
+8145,Physics
+8154,Social Studies
+101358,Astronomy
+8199,Biology
+8208,Biology
+8217,Science
+8226,Biology
+8235,Biology
+8244,History
+8253,Biology
+8262,Biology
+8271,Biology
+8280,Biology
+8289,Biology
+8298,Biology
+8307,Biology
+8316,Biology
+8325,History
+8334,Social Studies
+8343,Biology
+8352,Biology
+8361,Biology
+8370,Biology
+8379,Biology
+8388,Biology
+8397,Biology
+8406,Biology
+8415,Biology
+8424,Biology
+8433,Social Studies
+8442,Biology
+8451,Chemistry
+8460,Biology
+8469,Social Studies
+8478,Biology
+8487,Biology
+8496,Biology
+8505,Biology
+8514,Biology
+8523,Biology
+8532,Biology
+8541,Social Studies
+8550,Biology
+8559,Biology
+8568,Biology
+8577,Science
+8586,Biology
+8595,Biology
+8604,Biology
+8613,Biology
+8622,Biology
+8631,Biology
+8640,Biology
+8649,Biology
+8658,Biology
+8667,Biology
+8676,Earth Science
+8685,Biology
+8694,Biology
+8703,Biology
+8712,Biology
+8721,Biology
+8730,Biology
+8739,Biology
+8748,Biology
+8757,Biology
+8766,Biology
+8775,Biology
+8784,Chemistry
+8793,Biology
+8802,Biology
+8811,Biology
+8820,Biology
+8829,Biology
+8838,Biology
+8847,Biology
+8856,Biology
+8865,Biology
+8874,Biology
+8883,Biology
+8892,Biology
+8901,Biology
+123696,Science
+123822,Science
+115695,Biology
+107514,Biology
+109413,Biology
+116010,Biology
+116019,Science
+107838,Biology
+116046,Biology
+116109,Science
+116118,Biology
+116136,Biology
+116154,Biology
+107964,Biology
+114939,Biology
+108180,Biology
+108855,Biology
+108954,Biology
+123300,Biology
+117243,Science
+109062,Biology
+100872,Biology
+100953,Biology
+109206,Biology
+101088,Biology
+101142,Biology
+117540,Science
+109386,Biology
+117630,Biology
+109467,Biology
+109656,Biology
+117981,Biology
+117990,Biology
+118035,Biology
+118053,Biology
+118062,Biology
+118089,Biology
+118098,Biology
+115263,Biology
+109953,Biology
+118152,Biology
+115272,Biology
+123498,Biology
+115308,Biology
+102051,Biology
+110259,Biology
+110340,Biology
+102150,Biology
+110376,Biology
+102195,Biology
+123534,Biology
+102483,Biology
+118899,Biology
+118971,Biology
+110781,Biology
+102609,Biology
+110871,Biology
+110907,Biology
+119133,Biology
+110943,Biology
+110961,Biology
+119160,Fine Arts
+119178,Biology
+102798,Biology
+111060,Biology
+122904,Biology
+119358,Biology
+119376,Chemistry
+103005,Biology
+119430,Biology
+111438,Biology
+103257,Biology
+119664,Biology
+119673,Biology
+103293,Social Science
+103311,Biology
+110385,Biology
+111951,Biology
+103770,Biology
+107433,Biology
+103941,Chemistry
+120546,Biology
+104211,Biology
+112590,Biology
+112626,Biology
+112662,Biology
+112698,Biology
+104508,Biology
+121095,Biology
+104733,Science
+112932,Biology
+121140,Biology
+121185,Biology
+113013,Biology
+121221,Biology
+121284,Biology
+121347,Science
+104967,Biology
+114723,Biology
+105255,Biology
+105300,Biology
+105318,Literature
+105390,Biology
+105417,Biology
+121824,Biology
+121869,Social Science
+113679,Biology
+121887,Biology
+121896,Biology
+113715,Astronomy
+105579,Science
+122076,Biology
+113976,Biology
+117306,Biology
+122436,Biology
+122571,Biology
+122634,Biology
+106281,Biology
+114579,Science
+114588,Biology
+114597,Biology
+8163,Social Studies
+8172,Biology
+8181,Biology
+8190,Biology
+122976,Chemistry
+106632,Chemistry
+123066,Chemistry
+106722,Chemistry
+115299,Physics
+8910,Chemistry
+8919,Chemistry
+8928,Chemistry
+107235,Chemistry
+8937,Chemistry
+8946,Chemistry
+8955,Chemistry
+8973,Biology
+8982,Physics
+8991,Chemistry
+9000,History
+9009,Biology
+9018,Other
+9027,Physics
+9036,Chemistry
+9045,Physics
+9054,Chemistry
+9063,Chemistry
+9072,Other
+9081,Chemistry
+9090,Chemistry
+9099,Chemistry
+9108,Chemistry
+9117,Chemistry
+9126,Chemistry
+9135,Biology
+9144,Chemistry
+9153,Chemistry
+9162,Chemistry
+9171,Physics
+9180,Physics
+9189,Chemistry
+9198,Chemistry
+9207,Chemistry
+9216,Chemistry
+9225,Chemistry
+9234,Chemistry
+9243,Chemistry
+9252,Chemistry
+9270,Chemistry
+9279,Chemistry
+9288,Chemistry
+9297,Chemistry
+9306,Biology
+9315,Biology
+9324,Chemistry
+9333,Physics
+9342,Chemistry
+9351,Biology
+9360,Chemistry
+9369,Chemistry
+9378,Chemistry
+9396,Chemistry
+9405,Chemistry
+9414,Chemistry
+9423,Chemistry
+9432,Chemistry
+9441,Chemistry
+9450,Chemistry
+9459,Science
+9468,Chemistry
+9477,Chemistry
+9486,Chemistry
+9495,Science
+9504,Chemistry
+9513,Chemistry
+9522,Other
+9531,Chemistry
+107847,Chemistry
+116064,Chemistry
+116127,Chemistry
+116145,Chemistry
+116172,Chemistry
+116199,Chemistry
+116235,Biology
+116334,Physics
+110880,Chemistry
+116550,Chemistry
+116649,Chemistry
+108459,Chemistry
+108801,Chemistry
+117117,Science
+100836,Chemistry
+109143,Chemistry
+117522,Chemistry
+101232,Chemistry
+101349,Chemistry
+109611,Chemistry
+109629,Chemistry
+117972,Chemistry
+109836,Chemistry
+118107,Chemistry
+118134,Chemistry
+109944,Chemistry
+102015,Chemistry
+118476,Chemistry
+110286,Chemistry
+110349,Chemistry
+110466,Chemistry
+110619,Chemistry
+110646,Chemistry
+102654,Chemistry
+102744,Chemistry
+102825,Chemistry
+111348,Chemistry
+8964,Chemistry
+111177,Chemistry
+119565,Chemistry
+119700,Chemistry
+119763,Chemistry
+103491,Chemistry
+111852,Chemistry
+103806,Chemistry
+120231,Chemistry
+112050,Chemistry
+120285,Chemistry
+103914,Chemistry
+112122,Chemistry
+107460,Chemistry
+120492,Chemistry
+120582,Chemistry
+107487,Chemistry
+115704,Physics
+107523,Chemistry
+9261,Chemistry
+112977,Chemistry
+121230,Science
+113157,Chemistry
+113211,Chemistry
+121851,Physics
+9387,Chemistry
+114525,Science
+105687,Chemistry
+113895,Chemistry
+113913,Physics
+114048,Chemistry
+107757,Chemistry
+107766,Chemistry
+122526,Science
+106209,Chemistry
+122697,Chemistry
+122778,Chemistry
+106659,Earth Science
+123345,History
+105894,Earth Science
+109404,Earth Science
+109422,Social Studies
+113571,Science
+9540,Earth Science
+9549,Social Studies
+9558,Science
+9567,Social Studies
+9576,Social Studies
+9585,Chemistry
+9594,Earth Science
+9603,Earth Science
+9612,Biology
+9621,Science
+103833,Earth Science
+9630,Earth Science
+9639,Biology
+9648,Earth Science
+9657,Physics
+9666,Physics
+9675,Earth Science
+9684,Physics
+106092,Earth Science
+102078,Social Studies
+102141,Earth Science
+122706,Science
+104778,Earth Science
+9,Fine Arts
+18,Literature
+27,Fine Arts
+36,Literature
+45,Fine Arts
+54,Fine Arts
+63,Fine Arts
+72,Literature
+81,Fine Arts
+90,Fine Arts
+99,Fine Arts
+108,Fine Arts
+117,Fine Arts
+126,Fine Arts
+135,Fine Arts
+144,Fine Arts
+153,Fine Arts
+162,Fine Arts
+171,Fine Arts
+180,Fine Arts
+189,Literature
+198,Fine Arts
+207,Fine Arts
+216,Fine Arts
+225,Fine Arts
+234,Fine Arts
+243,Fine Arts
+252,Fine Arts
+261,Fine Arts
+270,Fine Arts
+279,Fine Arts
+288,Fine Arts
+297,Fine Arts
+306,Fine Arts
+315,Fine Arts
+324,Fine Arts
+333,Fine Arts
+342,Fine Arts
+351,Fine Arts
+360,Fine Arts
+369,Fine Arts
+378,Fine Arts
+387,Fine Arts
+396,Fine Arts
+405,Fine Arts
+414,Fine Arts
+423,Literature
+432,Fine Arts
+441,Fine Arts
+450,Fine Arts
+459,Fine Arts
+468,Fine Arts
+477,Fine Arts
+486,Fine Arts
+495,Fine Arts
+504,Fine Arts
+513,Fine Arts
+522,Fine Arts
+531,Fine Arts
+540,History
+549,Fine Arts
+558,Fine Arts
+567,Fine Arts
+576,Fine Arts
+585,Fine Arts
+594,Fine Arts
+603,Fine Arts
+612,Fine Arts
+621,Fine Arts
+630,Fine Arts
+639,Fine Arts
+648,Fine Arts
+657,Fine Arts
+666,Fine Arts
+675,Fine Arts
+684,Fine Arts
+693,Fine Arts
+702,Fine Arts
+711,Fine Arts
+720,Fine Arts
+729,Fine Arts
+738,Fine Arts
+747,Fine Arts
+756,History
+765,Fine Arts
+774,Fine Arts
+783,Fine Arts
+792,Fine Arts
+801,Fine Arts
+810,Fine Arts
+819,Fine Arts
+828,Fine Arts
+837,Fine Arts
+846,Fine Arts
+855,Fine Arts
+864,Fine Arts
+873,Fine Arts
+882,Fine Arts
+891,Fine Arts
+900,Fine Arts
+909,Fine Arts
+918,Literature
+927,Fine Arts
+936,Fine Arts
+945,Fine Arts
+954,Fine Arts
+963,Fine Arts
+972,Fine Arts
+981,Fine Arts
+990,Fine Arts
+999,Fine Arts
+1008,Fine Arts
+1017,Literature
+1026,Fine Arts
+1035,Fine Arts
+1044,Fine Arts
+1053,Fine Arts
+1062,Fine Arts
+1071,Fine Arts
+1080,Fine Arts
+1089,Fine Arts
+1098,Fine Arts
+1107,Fine Arts
+1116,Fine Arts
+1125,Fine Arts
+1134,Social Studies
+1143,Fine Arts
+1152,Fine Arts
+1161,Fine Arts
+1170,Fine Arts
+1179,Fine Arts
+1188,Fine Arts
+1197,Fine Arts
+1206,Fine Arts
+1215,Fine Arts
+1224,Fine Arts
+1233,Fine Arts
+1242,Fine Arts
+1251,Fine Arts
+1260,Fine Arts
+1269,Fine Arts
+1278,Fine Arts
+1287,Fine Arts
+1296,History
+1305,Fine Arts
+1314,Fine Arts
+1323,Fine Arts
+1332,Fine Arts
+1341,Fine Arts
+1350,Fine Arts
+1359,Fine Arts
+1368,Fine Arts
+1377,Fine Arts
+1386,Fine Arts
+1395,Fine Arts
+1404,Fine Arts
+1413,Fine Arts
+1422,Fine Arts
+1431,Fine Arts
+1440,Fine Arts
+1449,Literature
+1458,Fine Arts
+1467,Fine Arts
+198099,Fine Arts
+198198,Fine Arts
+196875,Fine Arts
+196884,Fine Arts
+198315,Fine Arts
+198333,History
+198342,Fine Arts
+198369,Fine Arts
+198396,Fine Arts
+198423,Fine Arts
+198486,Fine Arts
+198504,Fine Arts
+198522,Fine Arts
+198531,Fine Arts
+198729,Fine Arts
+100692,Fine Arts
+100719,Fine Arts
+100728,Social Studies
+100737,Fine Arts
+100746,Fine Arts
+100764,Fine Arts
+100818,Fine Arts
+100863,Fine Arts
+100926,Fine Arts
+197046,Literature
+100935,Fine Arts
+100998,Fine Arts
+101061,Fine Arts
+101133,Fine Arts
+197199,Fine Arts
+197217,Fine Arts
+101988,Fine Arts
+197244,Astronomy
+102321,Fine Arts
+102375,Fine Arts
+102420,Fine Arts
+102438,Fine Arts
+102456,Fine Arts
+102510,Fine Arts
+102564,Fine Arts
+102690,Fine Arts
+102717,Fine Arts
+102969,Social Studies
+103014,Fine Arts
+103032,Fine Arts
+103095,Fine Arts
+103140,Fine Arts
+197415,Fine Arts
+103302,Fine Arts
+103347,Fine Arts
+103392,Fine Arts
+197478,Fine Arts
+103545,Fine Arts
+103554,Fine Arts
+103698,Fine Arts
+103725,Fine Arts
+103752,Fine Arts
+103779,Fine Arts
+197550,Fine Arts
+103959,Fine Arts
+197559,Fine Arts
+104148,Fine Arts
+197595,Fine Arts
+104247,Fine Arts
+104274,Fine Arts
+104292,Fine Arts
+104328,Fine Arts
+104427,Fine Arts
+104472,Fine Arts
+104517,Fine Arts
+104607,Fine Arts
+104616,Fine Arts
+104643,Fine Arts
+197667,Fine Arts
+104814,Fine Arts
+104850,Fine Arts
+197712,Fine Arts
+105021,Fine Arts
+105075,Fine Arts
+197739,Fine Arts
+197748,Fine Arts
+105183,Fine Arts
+105210,Fine Arts
+105264,Fine Arts
+105273,Social Studies
+105381,Fine Arts
+105444,Fine Arts
+105480,Fine Arts
+105561,Social Studies
+105633,Science
+105642,Fine Arts
+105651,Fine Arts
+105705,Fine Arts
+105768,Fine Arts
+197865,Fine Arts
+105876,Fine Arts
+105885,Fine Arts
+105939,Fine Arts
+105957,Fine Arts
+106083,Social Studies
+106272,Fine Arts
+106407,Other
+106416,Fine Arts
+106425,Fine Arts
+106497,Fine Arts
+106542,Fine Arts
+106578,Literature
+106587,Fine Arts
+106641,Fine Arts
+196686,Fine Arts
+106929,Fine Arts
+198063,Fine Arts
+107244,Fine Arts
+196704,Fine Arts
+107361,Fine Arts
+107424,Fine Arts
+107442,Social Studies
+107496,Fine Arts
+107541,Fine Arts
+196713,Other
+107748,Fine Arts
+107775,Social Studies
+107784,Fine Arts
+107793,Fine Arts
+107883,Fine Arts
+107991,Fine Arts
+108108,Fine Arts
+108117,Fine Arts
+108189,Fine Arts
+108414,Fine Arts
+108432,Fine Arts
+108657,Fine Arts
+108693,Fine Arts
+108729,Social Studies
+108792,Fine Arts
+108999,Fine Arts
+109188,Fine Arts
+109251,Fine Arts
+109269,Fine Arts
+109314,Fine Arts
+109359,Fine Arts
+109458,Fine Arts
+109512,Fine Arts
+109539,Fine Arts
+109548,Fine Arts
+109863,Fine Arts
+109872,Literature
+109926,Fine Arts
+109989,Fine Arts
+196794,Fine Arts
+110052,Fine Arts
+110205,Fine Arts
+110277,Fine Arts
+110475,Fine Arts
+110538,Fine Arts
+110763,Fine Arts
+196821,Literature
+110853,Fine Arts
+110889,Fine Arts
+110988,Fine Arts
+111150,Fine Arts
+111303,Fine Arts
+111321,Fine Arts
+111330,Fine Arts
+111762,Fine Arts
+111942,Fine Arts
+112005,Fine Arts
+112077,Fine Arts
+112383,Fine Arts
+112401,Fine Arts
+112464,Fine Arts
+112734,Fine Arts
+112851,Fine Arts
+112860,Fine Arts
+112923,Literature
+112986,Fine Arts
+113094,Fine Arts
+113121,Fine Arts
+113139,Fine Arts
+113166,Fine Arts
+113184,Fine Arts
+113220,Fine Arts
+113580,Fine Arts
+113607,Fine Arts
+113616,Fine Arts
+113643,Fine Arts
+113697,Fine Arts
+113769,Fine Arts
+114012,Fine Arts
+114084,Fine Arts
+114102,Fine Arts
+114129,Other
+114138,Fine Arts
+114147,Fine Arts
+114156,Fine Arts
+114165,Fine Arts
+114174,Fine Arts
+114183,Fine Arts
+114192,Fine Arts
+114201,Fine Arts
+114210,Other
+114219,Fine Arts
+114228,Other
+114237,Fine Arts
+114246,Fine Arts
+114255,Fine Arts
+114264,Fine Arts
+114273,Fine Arts
+114282,Fine Arts
+114291,Fine Arts
+114300,Fine Arts
+114309,Fine Arts
+114318,Fine Arts
+114327,Fine Arts
+114336,Fine Arts
+114345,Fine Arts
+114354,Fine Arts
+114363,Fine Arts
+114372,Literature
+114381,Fine Arts
+114390,Fine Arts
+114399,Fine Arts
+114435,Fine Arts
+114444,Fine Arts
+114471,Literature
+114624,Fine Arts
+114705,Literature
+114741,Fine Arts
+114822,Fine Arts
+114867,Fine Arts
+114903,Fine Arts
+114912,Fine Arts
+114966,Fine Arts
+115173,Fine Arts
+115200,Fine Arts
+115227,Fine Arts
+115290,Fine Arts
+115380,Fine Arts
+115416,Fine Arts
+115479,Fine Arts
+115560,Fine Arts
+115569,Other
+115587,Fine Arts
+115632,Fine Arts
+115785,Fine Arts
+115794,Fine Arts
+115803,Fine Arts
+115812,Fine Arts
+115821,Fine Arts
+115830,Fine Arts
+115839,Fine Arts
+115848,Other
+115857,Fine Arts
+115866,Fine Arts
+115875,Fine Arts
+115884,Fine Arts
+115893,Other
+115902,Fine Arts
+115911,Other
+115920,Fine Arts
+115929,Fine Arts
+115938,Fine Arts
+115947,Fine Arts
+115956,Fine Arts
+115965,Fine Arts
+115974,Fine Arts
+115983,Fine Arts
+116163,Fine Arts
+116190,Fine Arts
+116271,Fine Arts
+116451,Fine Arts
+116469,Fine Arts
+116667,Fine Arts
+117054,Fine Arts
+117126,Fine Arts
+117189,Fine Arts
+117234,Fine Arts
+117252,Fine Arts
+117261,Fine Arts
+117387,Fine Arts
+117450,Fine Arts
+117459,Fine Arts
+117531,Fine Arts
+117657,Fine Arts
+117666,Fine Arts
+118431,Fine Arts
+118530,Fine Arts
+118620,Fine Arts
+118692,Fine Arts
+118809,Fine Arts
+118890,Fine Arts
+118926,Fine Arts
+118944,Other
+118989,Fine Arts
+119124,Fine Arts
+119196,Fine Arts
+119205,Literature
+119277,Fine Arts
+119448,Fine Arts
+119475,Fine Arts
+119493,Fine Arts
+119538,Fine Arts
+119619,Fine Arts
+119655,Fine Arts
+119718,Fine Arts
+119736,Fine Arts
+119790,Fine Arts
+119853,Fine Arts
+119880,Fine Arts
+119889,Fine Arts
+119898,Fine Arts
+119907,Fine Arts
+119916,Literature
+119925,Literature
+119934,Fine Arts
+119943,Fine Arts
+119952,Fine Arts
+119961,Fine Arts
+119970,Fine Arts
+119979,Literature
+119988,Fine Arts
+119997,Fine Arts
+120006,Fine Arts
+120015,Literature
+120024,Fine Arts
+120033,Fine Arts
+120042,Fine Arts
+120051,Fine Arts
+120060,Fine Arts
+120069,Fine Arts
+120078,Literature
+120114,Fine Arts
+120177,Fine Arts
+120276,Fine Arts
+120393,Fine Arts
+120402,Fine Arts
+120429,Fine Arts
+120600,Fine Arts
+120636,Fine Arts
+120690,Fine Arts
+120762,Fine Arts
+120780,Fine Arts
+121167,Fine Arts
+121176,Fine Arts
+121194,Fine Arts
+121266,Fine Arts
+121590,Fine Arts
+121653,Fine Arts
+121761,Fine Arts
+121788,Fine Arts
+121797,Fine Arts
+121941,Fine Arts
+122094,Fine Arts
+122175,Fine Arts
+122184,Fine Arts
+122445,Fine Arts
+122472,Fine Arts
+122490,Fine Arts
+122544,Fine Arts
+122589,Fine Arts
+122670,Fine Arts
+122724,Fine Arts
+122733,Fine Arts
+122805,Fine Arts
+122868,Fine Arts
+122895,Fine Arts
+122931,Fine Arts
+122967,Fine Arts
+123039,Fine Arts
+123102,Fine Arts
+123129,Fine Arts
+123174,Fine Arts
+123408,Fine Arts
+123435,Fine Arts
+123507,Fine Arts
+123552,Fine Arts
+123606,Fine Arts
+189144,Fine Arts
+189198,Fine Arts
+189297,Fine Arts
+189333,Fine Arts
+189342,Fine Arts
+189351,Fine Arts
+123831,Fine Arts
+123849,Fine Arts
+123858,Fine Arts
+189405,Fine Arts
+123912,Fine Arts
+189567,Fine Arts
+189720,History
+189729,Fine Arts
+189774,Fine Arts
+189783,Fine Arts
+189855,Fine Arts
+189873,Fine Arts
+189882,History
+189909,Fine Arts
+189945,Fine Arts
+189972,Fine Arts
+190098,Fine Arts
+190107,Fine Arts
+190134,Fine Arts
+190224,Fine Arts
+190305,Fine Arts
+190323,Fine Arts
+190350,Fine Arts
+190386,Fine Arts
+190440,Fine Arts
+190467,Fine Arts
+190476,Fine Arts
+190503,Fine Arts
+190530,Fine Arts
+190656,Fine Arts
+190701,Fine Arts
+190719,Fine Arts
+190854,Fine Arts
+191097,Fine Arts
+191142,Fine Arts
+191205,Social Science
+191340,Literature
+191358,Fine Arts
+191385,Fine Arts
+191565,Fine Arts
+191619,Fine Arts
+191628,Fine Arts
+191646,Literature
+191655,Fine Arts
+191682,Other
+191727,Fine Arts
+191736,Fine Arts
+191781,Literature
+191916,Fine Arts
+192204,Literature
+192456,Other
+192492,Fine Arts
+192537,Fine Arts
+192582,Fine Arts
+192870,Fine Arts
+193221,Fine Arts
+193428,Fine Arts
+193455,Fine Arts
+193590,History
+193824,Fine Arts
+193842,Fine Arts
+193914,Literature
+194076,Fine Arts
+194112,Fine Arts
+194130,Fine Arts
+194148,Fine Arts
+194202,Fine Arts
+194247,Fine Arts
+194391,Social Science
+194490,Fine Arts
+194535,Fine Arts
+194544,Fine Arts
+194607,Fine Arts
+194625,Fine Arts
+194643,Fine Arts
+194697,Fine Arts
+194715,Fine Arts
+194724,Fine Arts
+194814,Fine Arts
+194823,Fine Arts
+194868,Fine Arts
+194895,Fine Arts
+194949,Fine Arts
+195039,Social Studies
+195066,Fine Arts
+195138,Fine Arts
+195219,Fine Arts
+195408,Fine Arts
+195444,Fine Arts
+195462,Fine Arts
+195543,Fine Arts
+195642,Fine Arts
+195651,Literature
+195813,Fine Arts
+195858,Fine Arts
+196209,Fine Arts
+196245,Fine Arts
+196263,Fine Arts
+196308,Fine Arts
+196317,Fine Arts
+196380,Fine Arts
+196398,Fine Arts
+196533,Geography
+196560,Fine Arts
+196596,Fine Arts
+190539,Social Studies
+198738,Social Studies
+190566,Geography
+190602,Social Studies
+196857,Social Studies
+192807,Social Studies
+197010,Social Studies
+197055,Social Studies
+197100,Social Studies
+197181,Geography
+193122,Social Studies
+197271,Geography
+192294,Social Studies
+195309,History
+197487,Geography
+193437,Social Studies
+193473,Social Studies
+197604,Social Studies
+197640,Social Studies
+189495,Geography
+197703,Social Studies
+193653,Social Studies
+197802,Social Studies
+189621,Social Studies
+193770,Social Studies
+191745,History
+189792,Other
+198018,Geography
+198036,Geography
+198045,Social Studies
+194049,Social Studies
+194121,Geography
+196200,Social Studies
+190071,Social Studies
+194292,Social Studies
+196362,Geography
+198450,Geography
+198468,Geography
+190278,Social Studies
+196443,Science
+196488,Geography
+192411,Social Studies
+191079,History
+196731,History
+196740,History
+196758,History
+189864,History
+196839,History
+196650,History
+196065,History
+193140,History
+197028,Fine Arts
+192186,History
+193149,Social Studies
+197235,History
+197388,History
+193158,Social Science
+197469,History
+189900,History
+197496,History
+197505,History
+197568,History
+197622,Social Studies
+197631,History
+197676,History
+196803,History
+193356,History
+198009,History
+1476,History
+1485,History
+1494,History
+1503,Literature
+1512,History
+1521,History
+1530,History
+1539,History
+1548,History
+1557,History
+1566,History
+1575,History
+1584,History
+1593,History
+1602,History
+1611,Literature
+1620,History
+1629,History
+1638,History
+1647,History
+1656,History
+1665,History
+1674,History
+1683,History
+1692,History
+1701,History
+1710,History
+1719,History
+1728,History
+1737,Other
+1746,History
+1755,History
+1764,History
+1773,History
+1782,Literature
+1791,History
+1800,History
+1809,Social Studies
+1818,History
+1827,Literature
+1836,History
+1845,History
+1854,History
+1863,History
+1872,History
+1881,History
+1890,History
+1899,History
+1908,History
+1917,History
+1926,History
+1935,History
+1944,History
+1953,History
+1962,History
+1971,Literature
+1980,History
+1989,History
+1998,Social Studies
+2007,History
+2016,History
+2025,History
+2034,History
+2043,History
+2052,History
+2061,History
+2070,History
+2079,History
+2088,History
+2097,History
+2106,History
+2115,History
+2124,History
+2133,History
+2142,History
+2151,History
+2160,History
+2169,History
+2178,Other
+2187,History
+2196,History
+2205,History
+2214,History
+2223,History
+2232,History
+2241,History
+2250,History
+2259,History
+2268,History
+2277,History
+2286,History
+2295,History
+2304,History
+2313,History
+2322,History
+2331,History
+2340,History
+2349,History
+2358,History
+2367,History
+2376,History
+2385,Social Studies
+2394,History
+2403,History
+2412,History
+2421,History
+2430,History
+2439,History
+2448,Social Studies
+2457,History
+2466,History
+2475,Social Studies
+2484,History
+2493,Social Studies
+2502,History
+2511,History
+2520,Social Studies
+2529,History
+2538,History
+2547,History
+2556,History
+2565,History
+2574,Literature
+2583,History
+2592,History
+2601,History
+2610,Literature
+2619,History
+2628,History
+2637,History
+2646,History
+2655,History
+2664,History
+2673,History
+2682,History
+2691,History
+2700,History
+2709,History
+2718,History
+2727,History
+2736,History
+2745,History
+2763,History
+2772,History
+2781,History
+2790,History
+2808,History
+2817,History
+2826,History
+2835,History
+2844,Social Studies
+101151,History
+2853,History
+2862,History
+2871,History
+2880,History
+101187,History
+2889,History
+101196,History
+2898,History
+101205,History
+2916,History
+101223,History
+2925,History
+2934,History
+101241,History
+2943,History
+101250,History
+2952,History
+2970,History
+2979,History
+2988,History
+2997,History
+3006,History
+3015,History
+3024,History
+3033,Social Studies
+3042,History
+3051,History
+3060,History
+3069,History
+3078,History
+3087,History
+3096,History
+3105,History
+3114,History
+3123,History
+3132,History
+3141,History
+3150,Social Studies
+3159,History
+3168,History
+3177,History
+3186,History
+3195,History
+3204,History
+3213,History
+3222,Social Studies
+3231,History
+3240,History
+3249,History
+3258,History
+3267,History
+3276,History
+3285,History
+3294,History
+3303,History
+3312,History
+3321,Fine Arts
+3330,History
+3339,History
+3348,History
+3357,History
+3366,History
+3375,History
+3384,History
+3393,History
+3402,History
+3411,History
+3420,History
+3429,History
+3438,History
+3447,History
+3456,History
+3465,History
+3474,History
+3483,History
+3492,History
+3501,History
+3510,Social Studies
+3519,History
+3528,History
+3537,History
+3546,History
+3555,History
+3564,History
+3573,History
+3582,History
+3591,Literature
+3600,History
+3609,History
+3618,History
+3627,History
+3636,History
+3645,History
+3654,History
+3663,History
+3672,History
+3681,History
+3690,History
+3699,History
+3708,Other
+3717,History
+3726,History
+3735,History
+3744,History
+3753,Social Studies
+3762,History
+3771,History
+3780,History
+3789,History
+3798,History
+3807,History
+3816,History
+3825,History
+3834,History
+3843,History
+3852,History
+3861,History
+3870,Literature
+3879,History
+3888,History
+3897,History
+3906,History
+3915,History
+3924,History
+3933,History
+3942,History
+3951,History
+3960,History
+3969,History
+3978,History
+3987,History
+3996,Social Studies
+4005,History
+4014,History
+4023,History
+4032,Literature
+4041,History
+4050,History
+4059,History
+4068,Social Studies
+4077,History
+4086,History
+4095,History
+4104,History
+4113,History
+4122,History
+102429,History
+4131,History
+4140,History
+4149,History
+4185,History
+4203,History
+4212,History
+4221,History
+4239,History
+4257,History
+4266,History
+4275,History
+102582,History
+4284,History
+4293,History
+4302,History
+4311,History
+4320,History
+4338,History
+4347,History
+4356,Literature
+4365,History
+4374,History
+4383,History
+4392,History
+4401,History
+4410,History
+4419,History
+4428,History
+102762,History
+102807,History
+102861,History
+102888,History
+193284,History
+102987,History
+102996,History
+103023,History
+103077,History
+103104,History
+103167,History
+103194,History
+103239,History
+103248,History
+103266,History
+103275,History
+103284,History
+103338,History
+103356,History
+191853,History
+103383,History
+103410,History
+103419,History
+103437,History
+103455,History
+103464,History
+103536,History
+103689,History
+103707,History
+103734,History
+192132,History
+196002,History
+103788,History
+103797,History
+192222,History
+103824,History
+103842,History
+103860,History
+103878,History
+195498,History
+103896,History
+103905,History
+103986,History
+104004,History
+104013,History
+104022,History
+104031,History
+104040,History
+104058,History
+104067,History
+104076,History
+104085,History
+104094,History
+104103,History
+104112,History
+104121,History
+104130,History
+104166,History
+104184,History
+104220,History
+104229,History
+104283,History
+104301,History
+104310,History
+104418,History
+104499,History
+104526,History
+193338,History
+104634,History
+104652,History
+104670,History
+104706,History
+190989,History
+191862,History
+104751,Literature
+104787,History
+196227,History
+104841,History
+104859,History
+104895,Social Studies
+104958,History
+105030,History
+105102,History
+105192,History
+105291,History
+105309,History
+105462,History
+105489,History
+193374,Literature
+194310,History
+105678,Social Studies
+105696,History
+105741,History
+197325,Other
+105840,History
+105867,History
+193095,History
+105903,History
+105912,History
+105930,History
+105966,History
+105975,History
+106011,History
+106029,History
+106110,History
+106137,History
+106182,History
+106200,History
+106236,History
+106308,History
+106371,Social Studies
+106389,History
+106398,History
+106434,History
+106596,History
+106614,History
+106758,History
+192312,History
+106794,History
+106812,History
+106857,History
+106875,History
+192627,History
+198207,History
+193419,History
+107271,History
+107280,History
+196029,History
+198108,History
+107307,History
+198378,History
+107370,History
+107397,History
+194967,Other
+107478,History
+107505,Social Studies
+198144,History
+107550,History
+107568,History
+107577,History
+107586,History
+107622,History
+107631,History
+107640,History
+107676,History
+107739,History
+107856,History
+107874,History
+107892,Social Studies
+107919,History
+107973,History
+108018,History
+194931,History
+108054,History
+198234,Social Science
+108072,History
+108090,History
+108135,History
+108144,History
+108171,History
+198270,History
+108423,History
+108567,History
+108576,History
+108585,History
+108603,History
+108612,Social Studies
+194805,History
+108702,History
+108720,History
+108774,Social Science
+108810,History
+108846,History
+108882,History
+108891,History
+108909,History
+108981,History
+109053,History
+109071,History
+109080,History
+109089,History
+109134,History
+109161,History
+109323,History
+109332,History
+109368,History
+109377,History
+109449,History
+109530,History
+109593,History
+109647,History
+109665,History
+109674,Social Studies
+109683,History
+109692,History
+109701,History
+109710,History
+109719,History
+109728,History
+109737,History
+109746,History
+109755,History
+109764,History
+109773,History
+109782,History
+109791,History
+109800,History
+109809,History
+109827,History
+196011,History
+109899,History
+189153,Social Studies
+109962,History
+110025,History
+110097,History
+110115,History
+193131,History
+110214,History
+110232,History
+110313,History
+110322,History
+110367,History
+193167,History
+110430,History
+193176,History
+110484,History
+110493,History
+193185,History
+110583,History
+110601,History
+110664,History
+110700,History
+110790,History
+110799,History
+110808,History
+193212,Geography
+111051,History
+111087,History
+111141,History
+111186,History
+190287,History
+111249,History
+111285,History
+111339,Social Studies
+111366,History
+111375,History
+193329,History
+111402,History
+111456,History
+193347,History
+193365,History
+111672,History
+111681,History
+111690,History
+111699,History
+111717,History
+111726,History
+111735,Social Studies
+111744,History
+111753,History
+111771,History
+111780,History
+111789,History
+111798,History
+111807,History
+111816,History
+111825,History
+111834,History
+111861,History
+196056,History
+111897,History
+111978,History
+112086,History
+195201,History
+189225,History
+112113,History
+112131,History
+197955,History
+197811,Other
+193311,History
+112392,History
+112428,History
+191907,History
+112446,History
+112509,History
+100683,History
+112581,History
+112608,History
+112635,History
+112653,Social Studies
+112770,History
+112779,History
+112833,History
+112905,History
+189252,History
+112941,History
+113004,History
+100755,History
+100782,History
+100809,History
+100827,Social Studies
+113445,Literature
+113625,History
+113760,History
+113787,History
+113796,History
+100890,History
+113832,History
+113868,History
+113877,History
+113922,History
+113931,History
+113949,History
+114021,History
+114030,History
+191475,History
+193671,History
+100989,History
+114453,History
+114507,History
+114516,History
+114633,History
+114669,History
+114678,History
+101034,History
+114687,History
+114732,History
+114759,History
+2754,History
+193239,History
+114894,History
+114921,History
+114957,History
+114993,History
+115002,Social Studies
+196020,Social Studies
+2799,History
+115155,History
+115164,History
+115182,History
+115317,History
+115353,Social Science
+115362,History
+115461,History
+115506,History
+115515,History
+115533,History
+115542,History
+115596,History
+115605,History
+115686,History
+115713,History
+115722,History
+2907,History
+115758,History
+194058,History
+195894,History
+2961,History
+198477,History
+101286,History
+193248,History
+116289,History
+116478,History
+116496,History
+116523,History
+191538,History
+116568,History
+116613,History
+196470,Other
+116658,History
+116676,History
+101430,History
+117072,History
+117081,History
+117090,Social Studies
+117108,History
+117153,History
+117162,History
+117216,History
+193761,History
+194328,History
+117396,History
+194337,History
+117504,History
+117639,History
+117684,Social Studies
+117720,History
+118197,History
+118206,History
+195975,History
+118215,History
+118242,History
+118251,History
+118260,History
+118287,History
+118296,History
+118305,History
+118332,History
+118395,History
+118449,History
+118485,History
+189801,History
+118593,History
+118629,History
+118638,History
+118647,History
+118665,History
+118701,History
+118737,History
+118818,History
+118845,Social Studies
+118854,History
+193266,History
+118953,History
+197091,History
+189135,History
+119043,History
+119061,Social Studies
+119088,History
+119106,Other
+119223,History
+119232,History
+119241,History
+119349,Geography
+119385,History
+119412,History
+119457,History
+119511,History
+119547,History
+119592,History
+101853,History
+119628,History
+119727,History
+119808,History
+119835,History
+101898,History
+190575,History
+101916,History
+101934,Social Studies
+120096,History
+196038,Literature
+120105,History
+101943,History
+120141,History
+120186,History
+101952,History
+120195,History
+120267,History
+193275,History
+196047,Social Studies
+190593,History
+120447,History
+120456,History
+101997,History
+120474,History
+120510,History
+102006,History
+120537,History
+120564,Social Studies
+120645,History
+120654,History
+120663,History
+120726,History
+102042,History
+198693,History
+189279,History
+102087,History
+121050,History
+121077,History
+102105,Other
+121149,History
+191709,History
+121320,History
+121338,History
+121572,History
+121635,History
+121671,History
+121806,History
+121833,History
+121968,Fine Arts
+102249,History
+195093,History
+195237,History
+121995,Social Studies
+122022,History
+102258,History
+195102,History
+122067,History
+122085,History
+195111,History
+122103,History
+102276,History
+122157,History
+193230,History
+122229,History
+122238,History
+122247,History
+122256,History
+122265,History
+122274,History
+122283,History
+122292,History
+122301,History
+122310,History
+122319,History
+122328,History
+122337,History
+122346,History
+102312,History
+122355,Social Studies
+122364,History
+122373,History
+122382,History
+122391,Social Science
+122400,History
+122409,History
+122418,History
+122427,History
+122454,History
+122463,History
+122535,History
+122562,History
+102348,History
+122580,History
+122652,History
+122661,History
+122679,History
+122769,History
+122877,History
+122913,History
+122940,History
+122949,History
+123021,History
+123075,History
+123120,History
+123138,History
+123228,History
+123237,History
+123246,History
+4158,History
+123264,History
+4167,History
+123327,History
+123336,History
+4176,History
+123372,History
+123381,History
+195327,History
+193293,Social Science
+4194,History
+123516,History
+123525,History
+123615,History
+123624,History
+123678,History
+4230,History
+123687,History
+123705,History
+189306,History
+4248,History
+189360,History
+192987,History
+123867,History
+123876,History
+189477,History
+189522,History
+189531,History
+189540,History
+196218,History
+189594,History
+189603,History
+189981,History
+189630,History
+189648,History
+189666,History
+4329,History
+102663,History
+102672,History
+190431,History
+197289,History
+190125,History
+190521,History
+190548,Other
+190710,History
+190737,History
+190809,History
+190845,History
+190863,History
+193257,History
+198414,History
+192114,History
+191673,History
+189693,History
+191934,History
+192015,History
+192033,History
+192051,History
+197343,History
+192420,History
+195921,History
+193320,History
+195948,History
+192681,History
+195966,History
+192789,History
+195984,History
+192438,History
+192888,History
+195993,History
+192924,History
+197946,History
+192978,Fine Arts
+192996,Fine Arts
+193005,History
+193014,Fine Arts
+193023,History
+193041,History
+194103,History
+193068,History
+193077,History
+193086,Fine Arts
+193104,History
+193383,Social Science
+193401,History
+193410,Other
+196083,History
+193464,History
+193527,History
+193572,History
+189756,History
+193032,History
+193833,History
+189837,History
+198495,History
+196164,History
+197406,History
+193959,History
+194004,History
+194013,History
+194418,History
+193059,History
+197424,History
+194517,History
+194571,History
+195012,History
+195030,History
+195048,History
+190890,History
+195957,History
+195336,History
+195426,History
+197928,History
+195597,History
+195624,History
+193302,History
+191007,History
+195840,History
+195903,History
+195912,History
+195930,History
+195939,History
+193113,History
+196371,Astronomy
+196416,History
+196452,History
+196587,History
+193050,History
+4437,Literature
+4446,Literature
+4455,Literature
+4464,Literature
+4473,Literature
+4482,Literature
+4491,Literature
+4500,Literature
+4509,Literature
+4518,History
+4527,Literature
+4536,Literature
+4545,Literature
+4554,Literature
+4563,Literature
+4572,Literature
+4581,Literature
+4590,Literature
+4599,Literature
+4608,Literature
+4617,Literature
+4626,Literature
+4635,Literature
+4644,Literature
+4653,Social Studies
+4662,Fine Arts
+4671,Literature
+4680,Literature
+4689,Literature
+4698,Literature
+4707,Literature
+4716,Literature
+4725,Literature
+4734,Literature
+4743,Literature
+4752,Literature
+4761,Literature
+4770,Other
+4779,Literature
+4788,Literature
+4797,Literature
+4806,Literature
+4815,Literature
+4824,Literature
+4833,Literature
+4842,Literature
+4851,Literature
+4860,Literature
+4869,Literature
+4878,Literature
+4887,Literature
+4896,Literature
+4914,Literature
+4923,Literature
+4932,Literature
+4941,Literature
+4950,Literature
+4959,Literature
+4968,Literature
+4977,Literature
+4986,Literature
+4995,Literature
+5004,Literature
+5013,Literature
+5022,Literature
+5040,Literature
+5049,Literature
+5058,Literature
+5067,Literature
+5076,Literature
+5085,Literature
+5094,Literature
+5112,Literature
+5130,Literature
+5157,Literature
+5175,Literature
+5184,Social Studies
+5193,Social Studies
+5202,Literature
+5211,Literature
+5220,History
+5229,Literature
+5238,Literature
+5247,Literature
+5256,Literature
+5265,Literature
+5274,Literature
+5283,Literature
+5292,Literature
+5301,Fine Arts
+5310,Literature
+5319,Literature
+5328,Literature
+5337,Literature
+5346,Literature
+5355,Literature
+5364,Literature
+5373,Literature
+5382,Literature
+5391,Literature
+5400,Literature
+5409,Literature
+5418,Literature
+5427,Literature
+5436,Literature
+5445,Literature
+5454,Literature
+5463,Literature
+5472,Literature
+5481,History
+5490,Literature
+5499,Literature
+5508,Literature
+5517,Literature
+5526,Literature
+5535,Social Studies
+5544,Literature
+5553,Literature
+5562,Literature
+5571,Literature
+5580,Literature
+5589,Literature
+5598,Literature
+5607,Literature
+5616,Literature
+5625,Literature
+5634,Social Studies
+5643,Literature
+5652,Literature
+5661,Literature
+5670,Literature
+5679,Literature
+5688,Literature
+5697,Literature
+5706,Literature
+5715,Literature
+5724,Literature
+5733,Literature
+5742,Literature
+5751,Literature
+5760,Literature
+5769,Literature
+5778,Literature
+5787,Literature
+5796,Literature
+5805,Literature
+5814,Literature
+5823,Literature
+5832,Literature
+5841,Literature
+5850,Literature
+5859,Literature
+5868,Literature
+5877,Literature
+5886,Literature
+5895,Literature
+5904,Literature
+5913,Literature
+5922,Literature
+5931,Literature
+5940,Literature
+5949,Social Studies
+5958,Literature
+5967,Literature
+5976,Literature
+5985,Literature
+5994,Literature
+6003,Literature
+6012,Literature
+6021,Literature
+6057,Literature
+6075,Literature
+6093,Literature
+6102,Literature
+6120,Literature
+6129,Literature
+6138,Social Studies
+6147,Literature
+6156,Literature
+6174,Literature
+6183,Literature
+6210,Literature
+6219,Literature
+6228,Literature
+6246,Social Studies
+6255,Literature
+6264,Literature
+6273,Literature
+6282,Literature
+6291,Literature
+6300,Literature
+6309,Literature
+6318,Literature
+6327,Literature
+6336,Literature
+6345,Literature
+6354,Literature
+6363,Literature
+6372,Literature
+6381,Literature
+6390,Literature
+6399,Literature
+6408,Literature
+6417,Literature
+6426,History
+6435,Literature
+6444,Literature
+6453,Literature
+6462,Literature
+6471,Literature
+6480,Literature
+6489,Literature
+6498,Literature
+6507,Literature
+6516,Literature
+6525,Literature
+6534,Literature
+6543,Fine Arts
+6552,Literature
+6561,Literature
+6570,Literature
+6579,Literature
+6588,Literature
+6597,Literature
+6606,Literature
+6615,Literature
+6624,Literature
+6633,Literature
+6642,Literature
+6651,Literature
+6660,Literature
+6669,Literature
+6678,Literature
+6687,Literature
+6696,Literature
+6705,Literature
+6714,Literature
+6723,Literature
+6732,Literature
+6741,Literature
+6750,Literature
+6759,Literature
+6768,Literature
+6777,Social Studies
+6786,Social Studies
+6795,Literature
+6804,Literature
+6813,History
+6822,Literature
+6831,Literature
+6840,Literature
+6849,Literature
+6858,History
+6867,Literature
+6876,Literature
+6885,Literature
+6894,Literature
+6903,Literature
+6912,Literature
+6921,Literature
+6930,Social Studies
+6939,Literature
+6948,Literature
+6957,Literature
+6966,Social Studies
+6975,Literature
+6984,Literature
+6993,Literature
+7002,Literature
+7011,Literature
+7020,Literature
+7029,Literature
+7038,Literature
+7047,Literature
+7056,Literature
+7065,Social Studies
+7074,Literature
+7083,Literature
+7092,Literature
+7101,Literature
+7110,Literature
+7119,Literature
+7128,Social Studies
+7137,Literature
+7146,Literature
+7155,Literature
+7164,Literature
+7173,Literature
+7182,Literature
+7191,Literature
+7200,Social Studies
+7209,Literature
+7218,Literature
+7227,Literature
+7236,Literature
+7245,Literature
+7254,Fine Arts
+7263,Literature
+7272,Literature
+7281,Literature
+7299,Literature
+7308,Literature
+7317,Literature
+7326,Literature
+7335,Social Studies
+7344,Literature
+4905,Literature
+5031,Literature
+5103,Literature
+5121,Literature
+5139,Literature
+5148,Literature
+5166,Literature
+6030,Literature
+6039,Other
+6048,Literature
+6066,Literature
+6084,History
+6111,Literature
+6165,Literature
+6192,Literature
+6201,Literature
+6237,Literature
+7290,Literature
+189162,Literature
+189189,Literature
+189216,Literature
+189261,Literature
+189423,Literature
+189441,Literature
+189450,Literature
+189549,Literature
+189558,Literature
+189711,Literature
+189765,Literature
+189819,Literature
+189846,Literature
+189891,Other
+189918,Literature
+189936,Literature
+189954,Other
+189963,Literature
+190008,Literature
+190044,Literature
+190053,History
+190116,Literature
+190170,Literature
+190179,Literature
+190188,Literature
+190242,Literature
+190251,Literature
+190260,Social Science
+190368,Literature
+190458,Other
+190494,Literature
+190512,Literature
+190584,Literature
+190638,Fine Arts
+190674,Literature
+190692,Literature
+190728,Literature
+190773,Literature
+190818,Literature
+190872,Literature
+190881,Literature
+190908,Literature
+190935,Literature
+190953,Literature
+190971,Literature
+191133,Literature
+191160,Literature
+191187,Literature
+191196,Literature
+191268,Literature
+191277,Literature
+191286,Literature
+191304,Literature
+191367,Literature
+191376,Literature
+191403,Literature
+191421,Literature
+191430,Literature
+191439,Literature
+191448,Literature
+191457,Literature
+191466,Fine Arts
+191484,Literature
+191493,Social Science
+191547,Literature
+191556,Literature
+191664,Literature
+191691,Literature
+191763,Literature
+191817,Literature
+191835,Literature
+191844,Literature
+191898,Literature
+192006,Other
+192024,Literature
+192060,Literature
+192078,Literature
+192123,Literature
+192150,Literature
+192168,Literature
+192213,Literature
+192240,Literature
+192276,Literature
+192330,Literature
+192348,Literature
+192366,Literature
+192393,Literature
+192429,Literature
+192447,Literature
+192465,Literature
+192483,Literature
+192501,Literature
+192519,Literature
+192555,Literature
+192564,Literature
+192600,Literature
+192609,Literature
+192636,Literature
+192690,Literature
+192717,Literature
+192735,Literature
+192771,Literature
+192780,Literature
+192798,Literature
+192816,Literature
+192825,Literature
+192843,Literature
+192852,Literature
+192861,Literature
+192906,Social Studies
+192915,Literature
+193194,Literature
+193203,Literature
+193518,Literature
+193545,Literature
+193554,Literature
+193617,Literature
+193644,Literature
+193725,Literature
+193779,Literature
+193860,Literature
+193977,Literature
+194040,Literature
+194139,Literature
+194166,Literature
+194184,Literature
+194211,Literature
+194229,Literature
+194283,Literature
+194301,Literature
+194355,Literature
+194373,History
+194382,Literature
+194400,Literature
+194409,Literature
+194436,Fine Arts
+194481,Literature
+194508,Literature
+194562,Literature
+194589,Literature
+194652,History
+194661,Literature
+194670,Social Studies
+194760,Fine Arts
+194778,Literature
+194787,Literature
+194850,Literature
+194859,Literature
+194904,Literature
+194913,Literature
+194994,Literature
+195057,Literature
+195075,History
+195129,Literature
+195264,Literature
+195282,Literature
+195291,Literature
+195318,Literature
+195354,Literature
+195363,Literature
+195390,Literature
+195480,Literature
+195552,Social Studies
+195588,Literature
+195669,Literature
+195741,Other
+195759,Literature
+195777,Literature
+195822,Literature
+196074,Literature
+196092,Fine Arts
+196101,Literature
+196173,Literature
+196182,Literature
+196290,Other
+196353,Literature
+196389,Literature
+196407,Literature
+196425,Literature
+196506,Literature
+196542,Fine Arts
+196578,Literature
+196605,Literature
+196614,Literature
+196623,Literature
+196659,Literature
+196722,Other
+196776,Literature
+196830,Literature
+196929,Literature
+196947,Literature
+196983,Literature
+196992,Literature
+197073,Literature
+197109,Literature
+197154,Literature
+197163,Literature
+197226,History
+197253,Literature
+197361,Literature
+197379,Literature
+197433,Other
+197514,Astronomy
+197523,Literature
+197532,Social Science
+197541,Literature
+197649,Literature
+197694,Other
+197721,Literature
+197820,Literature
+198000,Literature
+198126,Literature
+198153,Literature
+198216,Literature
+198252,Literature
+198261,Literature
+198297,History
+198441,Literature
+198459,Literature
+198540,Other
+198585,Literature
+198594,Literature
+198603,Literature
+198612,Literature
+198621,Literature
+198675,Literature
+198711,Literature
+198720,Literature
+100710,Literature
+100773,Literature
+100791,Literature
+100908,Literature
+100980,Literature
+101007,Literature
+101052,Literature
+101079,Social Studies
+101097,Literature
+101106,Literature
+101124,Literature
+101169,Literature
+101295,Literature
+101313,Social Studies
+101322,Literature
+101331,Social Studies
+101340,Literature
+101376,Social Studies
+101385,Literature
+101439,Literature
+101448,Literature
+101457,Literature
+101466,Literature
+101475,Literature
+101484,Literature
+101493,Literature
+101502,Literature
+101511,Literature
+101520,Literature
+101529,Literature
+101538,Literature
+101547,Literature
+101556,Literature
+101565,Literature
+101574,Literature
+101583,Literature
+101592,Literature
+101601,Literature
+101610,Literature
+101619,Literature
+101628,Literature
+101637,Literature
+101646,Literature
+101655,Literature
+101664,Literature
+101673,Literature
+101682,Literature
+101907,History
+101961,Other
+102069,Social Studies
+102159,Literature
+102213,Other
+102231,Other
+102240,Literature
+102330,Fine Arts
+102339,History
+102366,Other
+102411,Literature
+102465,Literature
+102474,Literature
+102528,Other
+102555,Literature
+102573,Literature
+102591,Other
+102618,Literature
+102627,Literature
+102852,Literature
+102879,Literature
+102897,Literature
+102942,Other
+102951,Social Science
+102960,Literature
+103086,Literature
+103113,Literature
+103203,Literature
+103221,Literature
+103230,Literature
+103329,Literature
+103365,Fine Arts
+103374,Literature
+103446,Literature
+103473,Social Studies
+103518,Literature
+103527,Literature
+103563,Literature
+103590,Literature
+103599,Literature
+103653,Literature
+103671,Literature
+103968,Literature
+104175,Other
+104202,Literature
+104256,Literature
+104337,Literature
+104346,Literature
+104355,Literature
+104364,Literature
+104373,Literature
+104391,Literature
+104400,Literature
+104463,Literature
+104490,Literature
+104535,Literature
+104562,Literature
+104580,Literature
+104589,Literature
+104598,Literature
+104697,Other
+104715,Literature
+104868,Literature
+104922,Literature
+104931,Literature
+104994,Literature
+105048,Literature
+105066,Other
+105129,Social Science
+105156,History
+105201,Literature
+105219,Social Studies
+105237,Literature
+105246,Literature
+105327,Literature
+105336,Literature
+105435,Literature
+105471,Literature
+105498,Social Studies
+105507,Other
+105588,Literature
+105615,Literature
+105660,Literature
+105669,Literature
+105732,Literature
+105786,Literature
+105804,Literature
+105813,Other
+105822,Literature
+105831,Literature
+105993,Literature
+106038,Literature
+106056,Literature
+106101,Literature
+106191,Literature
+106254,Literature
+106263,Literature
+106299,Literature
+106362,Literature
+106452,Literature
+106461,Other
+106479,Literature
+106506,Literature
+106623,Literature
+106686,Literature
+106713,Literature
+106731,Literature
+106767,Literature
+106803,Literature
+106821,History
+106830,Literature
+106839,Literature
+106866,Literature
+106893,Literature
+106902,Literature
+106911,Literature
+106920,Literature
+106947,Literature
+106956,Literature
+106965,Literature
+106974,Literature
+106983,Literature
+106992,Literature
+107001,Literature
+107010,Literature
+107019,Literature
+107028,Literature
+107037,Literature
+107046,Literature
+107055,Literature
+107064,Literature
+107073,Literature
+107082,Social Studies
+107091,Literature
+107100,Literature
+107109,Literature
+107118,Literature
+107127,Literature
+107136,Literature
+107145,Literature
+107154,Literature
+107163,Literature
+107172,Literature
+107181,Literature
+107190,Literature
+107199,Literature
+107208,Social Studies
+107217,Literature
+107226,Literature
+107253,Literature
+107334,History
+107406,Literature
+107415,Literature
+107469,Literature
+107532,Literature
+107595,Other
+107604,Literature
+107649,Literature
+107721,Other
+107730,Literature
+107802,Literature
+107820,Literature
+107910,Literature
+107982,Literature
+108027,Literature
+108045,Literature
+108081,Literature
+108099,Other
+108126,Literature
+108198,Literature
+108207,Literature
+108216,Literature
+108225,Literature
+108234,Literature
+108243,Literature
+108252,Literature
+108261,Literature
+108270,Literature
+108279,Literature
+108288,Literature
+108297,Literature
+108306,Literature
+108315,Literature
+108324,Literature
+108333,Literature
+108342,Literature
+108351,Social Studies
+108360,Literature
+108369,Literature
+108378,Literature
+108387,Literature
+108396,Literature
+108405,Literature
+108450,Literature
+108486,Literature
+108504,Literature
+108531,Literature
+108549,Literature
+108558,Literature
+108765,Other
+108783,Literature
+108828,Literature
+108837,Literature
+108873,Literature
+108927,Literature
+108945,Literature
+108972,Literature
+108990,Literature
+109008,History
+109026,Literature
+109035,Literature
+109044,Literature
+109107,Literature
+109116,Fine Arts
+109170,Literature
+109179,Literature
+109197,Literature
+109260,Social Studies
+109278,History
+109503,Literature
+109557,Literature
+109566,Social Studies
+109575,Literature
+109584,Literature
+109620,Literature
+109845,Social Studies
+110043,Literature
+110070,Social Studies
+110088,Literature
+110124,Literature
+110160,Literature
+110187,Literature
+110196,Chemistry
+110223,Literature
+110241,Literature
+110250,Literature
+110268,Social Studies
+110394,Literature
+110457,Literature
+110502,Literature
+110547,Literature
+110556,Literature
+110565,Literature
+110574,Literature
+110610,Literature
+110637,Literature
+110655,Literature
+110682,Literature
+110709,Literature
+110718,Literature
+110727,Literature
+110736,Literature
+110835,Literature
+110862,Literature
+110898,Literature
+110925,Literature
+110934,Literature
+110952,Literature
+110979,Literature
+111069,Literature
+111078,Literature
+111096,Literature
+111105,Literature
+111123,History
+111132,Literature
+111159,Literature
+111168,Other
+111213,Literature
+111294,Literature
+111312,Literature
+111384,Literature
+111393,Literature
+111411,Social Science
+111429,History
+111906,Literature
+111933,Literature
+111996,Literature
+112068,Literature
+112419,Literature
+112455,Literature
+112491,Social Studies
+112527,Literature
+112572,Literature
+112599,Literature
+112707,Literature
+112716,Literature
+112752,Literature
+112761,Literature
+112788,Literature
+112806,Literature
+112824,Literature
+112842,History
+112878,Literature
+112896,Literature
+112914,Fine Arts
+112950,Literature
+113031,Literature
+113049,Literature
+113085,Literature
+113202,Literature
+113229,Literature
+113238,Literature
+113247,Literature
+113256,Literature
+113265,Literature
+113274,Social Studies
+113283,Literature
+113292,Literature
+113301,Literature
+113310,Literature
+113319,Literature
+113328,Social Science
+113337,Literature
+113346,Literature
+113355,Literature
+113364,Social Studies
+113373,Literature
+113382,Literature
+113391,Literature
+113400,Literature
+113409,Literature
+113418,Literature
+113427,Literature
+113436,Literature
+113454,Literature
+113463,Social Studies
+113472,Other
+113481,Literature
+113490,History
+113517,Other
+113526,Literature
+113634,Literature
+113670,Literature
+113706,Literature
+113724,Social Studies
+113733,Literature
+113751,Literature
+113805,Fine Arts
+113814,Literature
+113886,Other
+113904,Literature
+113967,Literature
+114093,Literature
+114417,Literature
+114462,History
+114498,Literature
+114552,Social Science
+114606,Literature
+114642,Literature
+114651,Literature
+114696,Literature
+114795,Literature
+114813,Literature
+114831,Other
+114840,Social Studies
+114858,Literature
+114876,Literature
+114885,Literature
+115191,Literature
+115209,Literature
+115236,Literature
+115335,Literature
+115344,Literature
+115371,Literature
+115389,Literature
+115398,Literature
+115443,Other
+115470,Literature
+115488,Literature
+115497,Literature
+115524,Literature
+115551,Literature
+115623,Literature
+115650,Literature
+116226,Social Studies
+116253,Literature
+116316,Literature
+116343,Literature
+116352,Literature
+116370,Literature
+116379,Literature
+116388,Literature
+116406,Literature
+116415,Fine Arts
+116460,Social Studies
+116514,Literature
+116532,Literature
+116577,Other
+116685,Literature
+116694,Literature
+116703,Literature
+116721,Literature
+116730,Literature
+116739,Literature
+116748,Literature
+116757,Other
+116766,Literature
+116775,Literature
+116784,Literature
+116793,Literature
+116802,Literature
+116811,Literature
+116820,Literature
+116829,Literature
+116838,Literature
+116847,Literature
+116856,Literature
+116865,Literature
+116874,Other
+116883,Literature
+116892,Literature
+116901,Literature
+116910,Literature
+116919,Literature
+116928,Literature
+116937,Fine Arts
+116946,Literature
+116955,Other
+116964,Literature
+116973,Literature
+116982,Literature
+116991,Literature
+117000,Literature
+117009,Literature
+117018,Literature
+117027,Literature
+117036,Literature
+117045,Literature
+117099,History
+117135,Literature
+117144,Literature
+117207,Literature
+117270,Literature
+117279,Literature
+117288,Literature
+117324,Literature
+117333,Literature
+117369,Literature
+117423,Fine Arts
+117432,Literature
+117468,Literature
+117495,Literature
+117558,Literature
+117594,Literature
+117603,Literature
+117675,Fine Arts
+117702,Literature
+118170,Literature
+118314,History
+118341,Fine Arts
+118404,History
+118467,Other
+118512,Literature
+118539,History
+118548,Social Studies
+118557,Literature
+118566,Fine Arts
+118611,Other
+118656,Literature
+118683,Social Studies
+118710,Literature
+118728,Literature
+118746,Other
+118782,Literature
+118791,Literature
+118827,Literature
+118863,Literature
+118998,Literature
+119007,Literature
+119034,Social Studies
+119052,Literature
+119079,Literature
+119115,Literature
+119268,Literature
+119313,Literature
+119322,Literature
+119367,Literature
+119403,Literature
+119439,Literature
+119466,Literature
+119502,Literature
+119520,Social Studies
+119529,Literature
+119556,Literature
+119574,Literature
+119601,Literature
+119610,Literature
+119637,Literature
+119646,Literature
+119772,Literature
+119781,Social Studies
+119799,Literature
+119826,Literature
+120087,Literature
+120123,Literature
+120132,Literature
+120150,Literature
+120159,Literature
+120168,Fine Arts
+120204,Social Studies
+120213,Literature
+120222,Literature
+120240,Literature
+120258,Literature
+120294,Literature
+120312,Literature
+120339,Literature
+120357,Literature
+120384,Literature
+120411,Literature
+120420,Social Studies
+120438,Literature
+120501,Social Studies
+120519,Literature
+120573,Literature
+120627,Literature
+120672,Literature
+120681,Literature
+120771,Literature
+120789,Literature
+120798,Literature
+120807,Literature
+120816,Literature
+120825,Literature
+120834,Literature
+120843,Literature
+120852,Literature
+120861,Literature
+120870,Literature
+120879,Literature
+120888,Literature
+120897,Literature
+120906,Other
+120915,Literature
+121203,Literature
+121212,Literature
+121248,Literature
+121257,Literature
+121275,Literature
+121293,Literature
+121302,Literature
+121311,Literature
+121329,Literature
+121365,Literature
+121374,Literature
+121383,Fine Arts
+121392,Literature
+121401,Literature
+121410,Literature
+121419,Literature
+121428,Literature
+121437,Literature
+121446,Literature
+121455,Literature
+121464,Literature
+121473,Literature
+121482,Literature
+121491,Literature
+121500,Literature
+121509,Literature
+121518,Literature
+121527,Literature
+121536,Literature
+121545,Literature
+121554,Literature
+121563,Literature
+121617,Other
+121626,Literature
+121662,Literature
+121680,Science
+121689,Literature
+121707,Fine Arts
+121770,Literature
+121842,Literature
+121860,Literature
+121959,Fine Arts
+121977,Literature
+122013,Literature
+122040,Literature
+122049,Fine Arts
+122121,Literature
+122130,Social Studies
+122193,Social Studies
+122202,Literature
+122598,Literature
+122616,Literature
+122625,Literature
+122643,Literature
+122715,Literature
+122742,Literature
+122796,Literature
+122832,Literature
+122859,Literature
+122886,Literature
+122922,Literature
+122958,Literature
+122985,Literature
+123084,Literature
+123093,Literature
+123147,Literature
+123165,Social Studies
+123201,Literature
+123219,Literature
+123255,Literature
+123291,Literature
+123318,Literature
+123354,Literature
+123363,Literature
+123426,Literature
+123462,Literature
+123471,Literature
+123489,Literature
+123588,Literature
+123714,Literature
+123732,Literature
+123741,Literature
+123759,Literature
+123795,Literature
+123804,Literature
+123885,Literature
+106560,Mathematics
+114777,Mathematics
+106605,Physics
+114849,Mathematics
+123111,Mathematics
+123750,Science
+115578,Mathematics
+115614,Mathematics
+115677,Mathematics
+115749,Mathematics
+117612,Mathematics
+102600,Science
+116001,Mathematics
+107865,Mathematics
+116082,Science
+9693,Social Studies
+108000,Mathematics
+9702,Literature
+9711,Mathematics
+9720,Mathematics
+9729,Social Studies
+9738,Mathematics
+9747,Mathematics
+9756,Mathematics
+116262,Mathematics
+9774,Mathematics
+9783,Social Studies
+9792,Mathematics
+9801,Social Studies
+9810,Other
+9819,Mathematics
+9828,Social Studies
+116325,Mathematics
+9837,Mathematics
+9846,Mathematics
+9864,Mathematics
+9873,Mathematics
+9882,Mathematics
+9891,Mathematics
+9900,Mathematics
+116397,Mathematics
+9909,Mathematics
+9918,Social Studies
+9927,Mathematics
+9936,Mathematics
+9945,Other
+9954,Mathematics
+9963,Mathematics
+9972,Mathematics
+9855,Mathematics
+9981,Science
+9990,Physics
+116487,Mathematics
+9999,Mathematics
+10008,Mathematics
+10017,Science
+10026,Mathematics
+10035,Science
+10044,Mathematics
+10053,Mathematics
+10062,Mathematics
+10071,Science
+10080,Mathematics
+10089,Mathematics
+116712,Mathematics
+108918,Mathematics
+109017,Mathematics
+100854,Mathematics
+117477,Mathematics
+117549,Mathematics
+10098,Mathematics
+109854,Mathematics
+118125,Mathematics
+109935,Mathematics
+118143,Mathematics
+110061,Physics
+110295,Mathematics
+110331,Mathematics
+102168,Mathematics
+110439,Mathematics
+118836,Mathematics
+102492,Mathematics
+118881,Mathematics
+119025,Mathematics
+102699,Mathematics
+119142,Mathematics
+119304,Mathematics
+103041,Physics
+103050,Mathematics
+111267,Mathematics
+103635,Social Studies
+112023,Mathematics
+103923,Mathematics
+112140,Physics
+120609,Mathematics
+104238,Social Studies
+104544,Mathematics
+112869,Physics
+121131,Mathematics
+9765,Social Studies
+113112,Mathematics
+113175,Mathematics
+105012,Mathematics
+105147,Social Studies
+105228,Mathematics
+113661,Science
+121905,Physics
+122211,Mathematics
+106227,Mathematics
+114480,Science
+103743,Physics
+122814,Mathematics
+114660,Mathematics
+7353,History
+7362,Social Studies
+7371,Other
+7380,Other
+7389,History
+7398,Other
+7407,Other
+7416,Literature
+7425,Fine Arts
+7434,Social Studies
+7443,Other
+7452,Physics
+7461,Fine Arts
+7470,Physics
+7479,Social Studies
+7488,Social Studies
+7497,Other
+7506,Literature
+7515,Literature
+7524,Mathematics
+7533,Literature
+7542,Other
+7551,Social Studies
+7560,Social Studies
+7569,Social Studies
+7578,Physics
+7587,Other
+7596,History
+7605,History
+7614,Other
+7623,Other
+7632,Other
+7641,Mathematics
+7650,Other
+7659,Other
+7668,Other
+7677,Other
+7686,Other
+7695,Other
+7704,Other
+7713,History
+7722,History
+7731,Literature
+7740,Other
+7749,Other
+7758,Other
+7767,Other
+7776,Social Studies
+7785,Other
+7794,Other
+7803,Other
+7812,Other
+7821,History
+7830,Literature
+7839,Other
+7848,Literature
+7857,Other
+7866,Other
+7875,Other
+7884,Other
+7893,Other
+7902,Literature
+7911,Other
+7920,Other
+7938,Social Studies
+7947,Other
+7929,Other
+189243,Other
+189378,Other
+190215,Other
+190629,History
+190647,Other
+190944,Biology
+190962,Literature
+190998,History
+191025,Other
+191070,Other
+191151,Literature
+191178,History
+191214,History
+191223,Other
+191241,Other
+191502,Literature
+192096,History
+192141,Other
+192510,Literature
+192546,Social Science
+192951,History
+192969,Other
+193536,History
+193599,Physics
+193662,History
+193680,Literature
+193797,Social Studies
+193851,Fine Arts
+193905,History
+193950,History
+193986,History
+194031,Other
+194094,History
+194157,History
+194175,Other
+194220,History
+194274,History
+194427,History
+194526,Social Studies
+194553,History
+194769,History
+194841,Literature
+194877,Mathematics
+194958,History
+194985,History
+195021,History
+195120,History
+195156,History
+195174,History
+195210,Other
+195273,History
+195300,History
+195372,Literature
+195417,Biology
+195525,Literature
+195561,Literature
+195570,Social Studies
+195696,History
+195705,History
+195732,History
+195831,Literature
+195849,Other
+195885,Social Science
+196119,Fine Arts
+196128,Other
+196137,Biology
+196272,History
+196326,History
+196344,History
+196479,Other
+196749,Literature
+196866,History
+196974,Other
+197127,History
+197136,Social Science
+197190,History
+197442,History
+197451,Fine Arts
+197613,History
+197658,History
+197730,History
+197775,History
+197910,Science
+197937,History
+198072,Other
+198090,History
+198135,History
+198171,Science
+198189,History
+198351,History
+198432,Other
+198567,History
+100008,Other
+100017,Other
+100026,Other
+100035,Other
+100044,Other
+100053,Other
+100062,Other
+100071,Other
+100080,Other
+100089,Other
+100098,Other
+100107,Other
+100116,Other
+100125,Other
+100134,Other
+100143,Literature
+100152,Other
+100161,Literature
+100170,Other
+100179,Other
+100188,Other
+100197,Other
+100206,Other
+100215,Other
+100224,Other
+100233,Other
+100242,Other
+100251,Other
+100260,Other
+100269,Other
+100278,Other
+100287,Other
+100296,Other
+100305,Other
+100314,Other
+100323,Other
+100332,Other
+100341,Other
+100350,Fine Arts
+100359,Other
+100368,Other
+100377,Other
+100386,Other
+100395,Literature
+100404,Other
+100413,Other
+100422,Other
+100431,Other
+100440,Other
+100449,Other
+100458,Other
+100467,Other
+100476,Literature
+100485,Other
+100494,History
+100503,Other
+100512,Other
+100521,Other
+100530,Other
+100539,Other
+100548,Literature
+100557,Other
+100566,Other
+100575,Other
+100584,Other
+100593,Other
+100602,Other
+100611,Literature
+100620,Other
+100629,Other
+100638,Other
+100647,Other
+100656,Other
+100665,Other
+100674,Other
+101025,Other
+101394,Other
+101691,Other
+101700,History
+101709,Other
+101718,Other
+101727,Other
+101736,Other
+101745,Other
+101754,Other
+101763,Other
+101772,Other
+101781,Other
+101790,Other
+101799,Other
+101808,Other
+101817,Other
+101826,Other
+101835,Other
+101844,Other
+101970,Literature
+102024,Other
+102267,Literature
+102294,Other
+102357,Other
+102393,Other
+102402,Other
+102789,Other
+102870,Social Studies
+102924,Literature
+103500,Other
+103509,Literature
+103572,Other
+103851,Other
+103869,Other
+103932,Other
+103950,Other
+104193,Other
+104742,Other
+104976,Other
+105120,Other
+105282,Other
+105408,Other
+105516,Other
+105525,Other
+105534,Other
+106020,Other
+106155,Other
+106218,Other
+106317,Other
+106344,Other
+106443,Other
+106524,Literature
+106776,Other
+107289,Social Studies
+107712,Other
+108036,Literature
+108153,Other
+108675,Social Studies
+108756,Other
+109602,Other
+109908,Literature
+110304,Other
+110691,Other
+110772,Other
+111033,Other
+111276,Other
+111870,Other
+112095,Other
+112149,History
+112185,Other
+112194,Other
+112203,Other
+112212,Other
+112221,Other
+112230,Other
+112239,Other
+112248,Other
+112257,Social Studies
+112266,Other
+112275,Other
+112284,Other
+112293,Other
+112302,Other
+112311,Other
+112320,Other
+112329,Other
+112338,Other
+112347,Other
+112356,Other
+112365,Other
+112374,Other
+112437,Other
+113040,Other
+113058,History
+113067,Other
+113130,Other
+113499,Other
+113508,Literature
+113535,Other
+113553,Other
+113589,Other
+113652,Other
+114075,Other
+114786,Literature
+114930,Other
+115218,Other
+115452,Other
+115641,Other
+115767,Literature
+116091,Other
+116100,Other
+116217,Other
+116442,Other
+116541,Other
+116595,Fine Arts
+117063,Science
+117585,Other
+117621,Other
+118386,Other
+118440,Other
+118458,Other
+118935,Other
+118962,Other
+119187,Other
+120330,Other
+120735,Other
+121581,Other
+121599,Other
+121734,Social Studies
+122004,Other
+122517,Fine Arts
+122688,Other
+122751,Other
+122994,Other
+123003,Other
+123570,Fine Arts
+123768,Other
+123813,Fine Arts
+106515,Social Studies
+106551,Chemistry
+114750,Physics
+114804,Physics
+106668,Mathematics
+123057,Physics
+106677,Physics
+114948,Physics
+122850,Astronomy
+118872,Physics
+123453,Physics
+123543,Physics
+123642,Physics
+107352,Physics
+115659,Science
+107559,Social Studies
+107694,Physics
+115992,Physics
+107811,Chemistry
+116028,Physics
+116037,Physics
+107901,Physics
+107937,Physics
+107955,Physics
+108009,Social Studies
+116208,Physics
+108063,Physics
+121779,Science
+109494,Physics
+116307,Physics
+108162,Physics
+116424,Physics
+10107,Physics
+10116,Physics
+10125,Physics
+10134,Physics
+10143,Physics
+10152,Physics
+10161,Physics
+10170,Science
+108477,Physics
+10179,Physics
+10188,History
+10197,Physics
+10206,Physics
+10215,Physics
+10224,Physics
+10233,Social Science
+108540,Physics
+10242,Physics
+10251,Physics
+10260,Physics
+10269,Physics
+10278,Physics
+10287,Physics
+10296,Physics
+10305,Physics
+10314,Physics
+10323,Physics
+10332,Physics
+10341,Physics
+10350,Physics
+10359,Physics
+10368,Physics
+10377,Physics
+10386,Physics
+10395,Physics
+10404,Physics
+10413,Physics
+10422,Physics
+10431,Physics
+10440,Physics
+10449,Physics
+10458,Physics
+10467,Science
+10476,Physics
+10485,Physics
+10494,Physics
+10503,Physics
+10512,Physics
+10521,Physics
+10530,Physics
+10539,Chemistry
+10548,Physics
+10557,Physics
+10566,Physics
+10575,Physics
+10584,Physics
+10593,Physics
+10602,Physics
+10611,Physics
+10620,Physics
+10629,Physics
+10638,Physics
+10647,Physics
+10656,Mathematics
+10665,Physics
+10674,Science
+10683,Physics
+10692,Physics
+10701,Physics
+10710,Physics
+10719,Physics
+10728,Physics
+109125,Physics
+120591,Physics
+117378,Physics
+109224,Chemistry
+109242,Physics
+109350,Social Studies
+101160,Mathematics
+117567,Physics
+117576,Social Science
+109395,Physics
+109431,Physics
+117711,Social Science
+101412,Physics
+116604,Physics
+118026,Physics
+116622,Physics
+118116,Physics
+118161,Physics
+101862,Physics
+101871,Physics
+118269,Chemistry
+118278,Physics
+110142,Chemistry
+110178,Physics
+105750,Science
+122148,Physics
+118503,Physics
+110403,Physics
+118602,Physics
+102222,Physics
+110421,Physics
+118755,Physics
+118764,Physics
+102501,Physics
+118980,Science
+110817,Mathematics
+119097,Physics
+110997,Physics
+111042,Physics
+119259,Physics
+119295,Physics
+102915,Physics
+102933,Physics
+111195,Physics
+111240,Physics
+103131,Physics
+119583,Mathematics
+111420,Physics
+119709,Physics
+119745,Science
+119862,Physics
+119871,Physics
+103608,Physics
+108747,Physics
+111888,Physics
+121068,Physics
+103887,Physics
+120366,Physics
+104139,Physics
+121122,Physics
+120618,Physics
+112473,Physics
+104319,Science
+120717,Mathematics
+112554,Physics
+104409,Physics
+104436,Physics
+112671,Physics
+112743,Physics
+104661,Physics
+121059,Physics
+104688,Physics
+104760,Physics
+121158,Physics
+102114,Physics
+104805,Physics
+104886,Science
+113148,Physics
+105111,Physics
+105165,Physics
+121698,Social Science
+105345,Science
+100845,Physics
+105372,Physics
+121878,Science
+121923,Physics
+105543,Physics
+121932,Physics
+113742,Physics
+113823,Physics
+105723,Physics
+122112,Physics
+113985,Chemistry
+105849,Physics
+121914,Mathematics
+122787,Physics
+105984,Physics
+122481,Physics
+106164,Physics
+122841,Physics
+106380,Physics
+114615,Physics
+196632,Science
+196677,Astronomy
+196695,Science
+197991,Science
+196848,Biology
+196920,Physics
+196938,Physics
+196956,Mathematics
+196965,Physics
+197001,Biology
+197019,Science
+197064,Chemistry
+197145,Chemistry
+197172,Chemistry
+197280,Social Studies
+197334,Physics
+189171,Mathematics
+197397,Science
+197460,Science
+189270,Science
+189288,Science
+189324,Science
+189369,Social Science
+197577,Science
+197586,Science
+189414,Physics
+189432,Science
+189459,Science
+189468,Science
+189486,Astronomy
+189504,Science
+197766,Chemistry
+189576,Biology
+189585,Physics
+197793,Physics
+189612,Physics
+197838,Science
+197874,Mathematics
+197883,Science
+197892,Science
+189747,Science
+197964,Chemistry
+197973,Social Studies
+189810,Science
+198054,Mathematics
+198081,Chemistry
+198117,Science
+189927,Mathematics
+189990,Astronomy
+198225,Chemistry
+190035,Physics
+198243,Science
+190080,Science
+198279,Science
+190161,Mathematics
+198360,Science
+190197,Biology
+190206,Physics
+198405,Science
+190233,Science
+190269,Science
+190332,Physics
+190359,Science
+198558,Science
+190377,Other
+198576,Astronomy
+190395,Science
+190413,Science
+198630,Mathematics
+198639,Physics
+190449,Science
+190557,Science
+190620,Science
+190665,Biology
+190764,Science
+190782,Science
+190791,Physics
+190800,Science
+190836,Science
+190917,Science
+190926,Mathematics
+190980,Chemistry
+191016,Physics
+191034,Science
+191052,Science
+191061,Science
+191088,Science
+191106,Science
+191232,Science
+191250,Biology
+191259,Science
+191322,Social Science
+191331,Chemistry
+191349,Physics
+191394,Social Science
+191529,Chemistry
+191592,Science
+191601,Science
+191700,Biology
+191718,Physics
+191790,Biology
+191799,Other
+191925,Biology
+191943,Physics
+191952,Science
+191979,Science
+191988,Science
+192042,Science
+192087,Science
+192195,Mathematics
+192258,Science
+192303,Biology
+192321,Science
+192357,Science
+192402,Science
+192528,Physics
+192645,Science
+192672,Physics
+198684,Science
+192699,Physics
+192744,Chemistry
+192753,Physics
+192834,Science
+192897,History
+192933,Physics
+192960,Social Science
+193392,Astronomy
+193482,Science
+193563,Science
+193581,Chemistry
+193626,Physics
+193698,Biology
+193716,Physics
+193734,Other
+193815,Science
+193878,Science
+193896,Science
+193923,Science
+193932,Science
+193968,Science
+194022,Science
+194085,Chemistry
+194256,Science
+194265,Science
+194319,Biology
+194346,Biology
+194463,Science
+194472,Physics
+194598,Biology
+194796,Chemistry
+194832,Biology
+194940,Science
+194976,Other
+195003,Physics
+195084,Science
+195165,Science
+195192,Chemistry
+195228,Mathematics
+195255,Science
+195345,Physics
+195381,Chemistry
+195489,Biology
+195507,Mathematics
+195534,Social Studies
+195633,Chemistry
+195678,Physics
+195687,Biology
+195714,Chemistry
+195768,Mathematics
+195786,Physics
+195804,Chemistry
+196155,Biology
+197901,Physics
+196254,Physics
+196281,Mathematics
+196335,Biology
+196461,Science
+196641,Social Studies
+196668,Social Studies
+196767,Social Studies
+196785,History
+196812,History
+196893,Social Science
+196902,Social Science
+196911,Social Studies
+198027,Social Studies
+197037,Social Studies
+197082,Social Science
+197118,Social Science
+197208,Social Science
+197262,Social Science
+197298,Social Studies
+197307,Social Science
+197316,Science
+197352,Science
+197370,Social Studies
+189180,Literature
+189207,Social Science
+189234,Social Science
+189315,Social Studies
+189387,Social Science
+189396,Social Science
+197685,Social Studies
+189513,Social Studies
+197757,Literature
+197784,Social Science
+197829,Social Studies
+189639,History
+189657,Social Studies
+197856,Social Science
+189675,Social Studies
+189684,Social Science
+189702,Social Science
+189738,Social Science
+197982,Social Studies
+189828,Social Science
+198162,Social Studies
+198180,Social Science
+189999,Social Science
+190017,Social Science
+190026,Social Science
+190062,Social Science
+190089,Social Science
+198288,Social Studies
+190143,Social Science
+190152,History
+190296,History
+190314,Science
+198513,Mathematics
+190341,Social Studies
+198549,Social Studies
+190404,Literature
+198306,Social Studies
+190422,Social Science
+198648,Social Studies
+198657,Literature
+198666,Social Science
+190485,Social Science
+198324,Social Studies
+190611,Social Science
+198387,Social Studies
+190683,Social Studies
+190746,Social Studies
+190755,Social Science
+197847,Social Science
+190827,History
+190899,Social Science
+191043,Literature
+191115,Social Studies
+191124,Social Studies
+191169,Social Studies
+191295,Science
+191313,Science
+191412,Social Science
+191511,Social Studies
+191520,Social Studies
+191574,Social Studies
+191583,History
+191610,Social Science
+191637,Social Studies
+191754,History
+191772,History
+191808,Social Studies
+191826,Social Studies
+191871,Biology
+191880,Social Studies
+191889,Social Science
+191961,Social Studies
+191970,Social Studies
+191997,Social Studies
+192069,Social Science
+192105,Social Studies
+192159,Social Studies
+192177,Social Studies
+192231,Social Science
+192249,Social Studies
+192267,History
+192285,Social Science
+192339,Social Science
+192375,Literature
+192384,Social Science
+192474,Social Science
+192573,Science
+192591,Social Studies
+192618,Literature
+192654,Social Studies
+192663,Social Studies
+192708,Literature
+192726,Biology
+192762,Social Science
+198702,Biology
+192879,Science
+192942,Social Studies
+193446,Social Science
+193491,Social Science
+193500,Social Science
+193509,Literature
+193608,History
+193635,Social Studies
+193689,Social Studies
+193707,Social Studies
+193743,Social Science
+193752,Social Science
+193788,Social Science
+193806,Social Studies
+193869,Science
+193887,Other
+193941,Social Science
+193995,Social Science
+194067,Social Science
+194193,Biology
+194238,Social Studies
+194364,Social Science
+194445,Social Studies
+194454,Social Studies
+194499,Biology
+194580,Social Science
+194616,Social Studies
+194634,Literature
+194679,Literature
+194688,Mathematics
+194706,Social Science
+194733,Social Science
+194742,Social Studies
+194751,Social Studies
+194886,Social Studies
+194922,Literature
+195147,Social Studies
+195183,Social Science
+195246,Social Studies
+195399,Social Studies
+195435,Physics
+195453,History
+195471,Social Studies
+195516,History
+195579,Social Studies
+195606,Literature
+195615,History
+195660,Social Studies
+195723,Social Studies
+195750,Other
+195795,Social Studies
+195867,Social Studies
+195876,Social Studies
+196110,Science
+196146,Social Studies
+196191,History
+196236,History
+197919,Social Studies
+196299,Social Studies
+196434,History
+196497,Social Studies
+196515,Science
+196524,Literature
+196551,Social Science
+196569,Social Studies
+10962,Social Studies
+13104,Social Studies
+109296,History
+11007,Social Studies
+11025,Social Studies
+11169,Social Studies
+109476,History
+109485,Social Studies
+11241,History
+11250,Social Studies
+11259,Social Studies
+11268,History
+11313,Social Studies
+100701,Biology
+100800,Social Studies
+100881,Social Studies
+100899,Social Studies
+100917,Social Studies
+100944,Social Studies
+100962,Social Studies
+100971,Social Studies
+101016,History
+101043,Social Studies
+101070,Social Studies
+101115,Social Studies
+101178,Social Studies
+101214,Social Studies
+101259,Social Studies
+101268,Biology
+101277,Social Studies
+104265,Social Studies
+101304,Literature
+101367,Social Studies
+101403,Social Studies
+101421,Social Studies
+109818,History
+101880,History
+101889,Social Studies
+101925,Social Studies
+102060,Fine Arts
+102123,Geography
+102132,History
+102186,Social Studies
+102204,Social Studies
+109881,Literature
+109890,Social Studies
+102303,Social Studies
+102384,Literature
+102447,Social Studies
+102519,Social Studies
+102537,Social Studies
+102546,Social Science
+102645,Social Studies
+102681,Social Studies
+11655,Social Studies
+102708,Social Studies
+102726,Literature
+102753,Social Science
+102771,Social Studies
+102780,Social Studies
+102816,Social Studies
+102834,Social Science
+102843,Social Studies
+102906,Social Studies
+110358,Social Studies
+102978,Social Studies
+110016,Social Studies
+103059,Social Studies
+103068,Social Studies
+103122,Social Studies
+103149,History
+103158,Geography
+103176,Social Studies
+103185,Physics
+103212,Social Studies
+103320,Social Studies
+103401,Social Studies
+110079,Social Studies
+103428,Social Studies
+103482,Social Studies
+110106,Social Studies
+103626,Mathematics
+103644,Social Studies
+103662,Social Studies
+103680,Social Studies
+103716,Social Studies
+110133,Social Studies
+103761,Social Studies
+103815,Fine Arts
+110151,Social Studies
+110169,Social Studies
+103977,Social Studies
+103995,Social Studies
+104049,Social Studies
+104157,Social Studies
+11916,Social Studies
+104382,Social Studies
+104445,Social Studies
+104454,Social Studies
+104481,Social Studies
+104553,Social Studies
+104571,Social Studies
+104625,Social Studies
+104679,Social Studies
+104724,Social Studies
+104769,Social Studies
+104796,Social Studies
+104823,Social Studies
+104832,Social Studies
+104877,Geography
+104904,Social Studies
+104913,Social Studies
+104940,Social Studies
+104949,Social Studies
+104985,Literature
+105003,Social Studies
+111519,Social Studies
+105039,Social Studies
+105057,Social Studies
+106065,Social Studies
+105084,Social Studies
+105093,Social Studies
+105138,Social Studies
+105174,Social Studies
+105354,Social Studies
+105363,Social Studies
+105399,Social Studies
+110412,Social Studies
+105426,Social Studies
+105453,Other
+105552,Social Studies
+111537,Social Studies
+105570,History
+105597,Social Studies
+105606,Social Studies
+105624,Social Studies
+110448,Social Studies
+105714,Social Studies
+105759,Social Studies
+105777,Social Studies
+105795,Social Studies
+12177,Social Studies
+105858,Social Studies
+105921,Social Studies
+105948,Social Studies
+106002,Social Studies
+110511,Social Studies
+106047,History
+110520,Social Studies
+106074,Other
+106128,Social Science
+106146,Fine Arts
+106173,Social Studies
+106290,Social Studies
+106326,Social Studies
+106335,Social Studies
+106470,Social Science
+106488,Social Studies
+106533,Social Studies
+106569,Social Studies
+106650,Social Studies
+106695,Social Studies
+106704,Social Studies
+110628,Fine Arts
+106740,Social Studies
+106749,Social Studies
+106785,Social Studies
+106848,Social Studies
+12348,Social Studies
+106884,Social Studies
+106938,Fine Arts
+107262,Social Studies
+107298,Social Studies
+107316,Social Studies
+107325,Social Studies
+107343,Social Studies
+107379,Social Studies
+107388,Social Studies
+107451,Social Studies
+107613,Social Studies
+107658,History
+107667,Social Studies
+107685,Social Studies
+107703,Social Studies
+107829,History
+107928,Social Studies
+12528,Social Studies
+107946,Social Science
+12537,Social Studies
+12600,Social Studies
+108441,Social Studies
+108468,History
+108495,Social Studies
+108522,Social Studies
+108594,Social Studies
+108621,History
+108630,Social Studies
+108639,Social Studies
+108648,History
+108666,Social Studies
+108711,Social Studies
+108738,Social Studies
+108819,Social Studies
+108864,Social Studies
+108900,Social Studies
+108936,Social Studies
+108963,Social Studies
+10737,Social Studies
+10746,Social Studies
+10755,Other
+10764,Social Studies
+10773,Social Studies
+10782,Social Studies
+10791,Social Studies
+10800,Social Studies
+10809,Social Studies
+10818,Social Studies
+10827,Social Studies
+10845,Social Studies
+10854,Social Studies
+10863,Social Studies
+10872,Social Studies
+10881,Social Studies
+10890,Social Studies
+10899,Literature
+10908,Social Studies
+10917,Social Studies
+10926,Social Studies
+109233,Social Science
+10935,Social Studies
+10944,Social Science
+10953,Social Studies
+10971,Social Studies
+10980,Social Studies
+109287,Social Studies
+10989,Social Studies
+10998,Social Studies
+109305,Social Studies
+11016,Social Studies
+11034,Social Studies
+109341,Social Studies
+11043,Social Studies
+11052,Social Studies
+11061,Social Studies
+11070,Social Studies
+11079,Social Studies
+11088,History
+11097,Social Studies
+11106,Social Studies
+11115,Social Studies
+11124,Social Studies
+11133,Social Studies
+11142,Social Studies
+11151,Social Studies
+11160,Social Studies
+11178,Social Studies
+11187,Social Studies
+11196,Social Studies
+11205,Social Studies
+11214,Social Studies
+109521,Other
+11223,Earth Science
+11232,Social Studies
+11277,Social Studies
+11286,History
+11295,History
+11304,History
+11322,Social Studies
+11331,Social Studies
+109638,Social Studies
+11340,Social Studies
+11349,Social Studies
+11358,History
+11367,Social Studies
+11376,Geography
+11385,Social Studies
+11394,Social Studies
+11403,Social Studies
+11412,Social Studies
+11421,Social Studies
+11430,Social Studies
+11439,Social Studies
+11448,Social Studies
+11457,Social Studies
+11466,Social Studies
+11475,Social Studies
+11484,Social Studies
+11493,History
+11502,Social Studies
+11511,Social Studies
+11520,Social Studies
+11529,Social Studies
+11538,Social Studies
+11547,Social Studies
+11556,Social Studies
+11565,Social Studies
+11574,Social Studies
+11583,Social Studies
+11592,Social Studies
+11601,Social Studies
+11610,Social Studies
+11619,Social Studies
+11628,Social Studies
+11637,Social Studies
+11646,Social Studies
+11664,Social Studies
+109971,Social Studies
+11673,Social Studies
+109980,Social Studies
+11682,Social Studies
+11691,Social Studies
+109998,Social Studies
+11700,Social Studies
+110007,Social Studies
+11709,Social Studies
+11718,Social Studies
+11727,Social Studies
+11745,Social Studies
+11754,Literature
+11763,Social Studies
+11772,Social Studies
+11781,Social Studies
+11790,Social Studies
+11799,Social Studies
+11808,Social Studies
+11817,Social Studies
+11826,Social Studies
+11835,Social Studies
+11844,Literature
+11853,Social Studies
+11862,Social Studies
+11871,Social Studies
+11880,Social Studies
+11889,Social Studies
+11898,Social Studies
+11907,Social Studies
+11925,History
+11934,Social Studies
+11943,Social Studies
+11952,Social Studies
+11961,Social Studies
+11970,Social Studies
+11979,Social Studies
+11988,Social Studies
+11997,Social Studies
+12006,Social Studies
+12015,Social Studies
+12024,Social Studies
+12033,Social Studies
+12042,Social Studies
+12051,Social Studies
+12060,Social Studies
+12069,Fine Arts
+12078,Social Studies
+12087,Social Studies
+12096,Social Studies
+12105,Social Studies
+12114,Social Studies
+12123,Social Studies
+12132,Social Studies
+12141,Social Studies
+12150,Social Studies
+12159,Social Studies
+12168,Social Studies
+12186,Social Studies
+12195,Social Studies
+12204,Social Studies
+12213,History
+12222,Social Studies
+110529,Social Studies
+12231,Social Studies
+12240,Social Studies
+12249,Social Studies
+12258,Social Studies
+12267,Social Studies
+12276,Social Studies
+12285,Social Studies
+110592,Social Studies
+12294,Social Studies
+12303,Social Studies
+12312,Social Studies
+12321,Social Studies
+12330,History
+12339,History
+12357,Social Studies
+12366,Social Studies
+110673,Social Studies
+12375,Social Studies
+12384,Social Studies
+12393,Social Studies
+12402,Social Studies
+12411,Literature
+12420,Social Studies
+12429,Social Studies
+12438,Social Studies
+110745,Social Studies
+12447,Literature
+110754,Social Studies
+12456,Social Studies
+12465,Social Studies
+12474,Social Studies
+12483,History
+12492,Social Studies
+12501,Physics
+12510,History
+12519,Social Studies
+110826,Social Studies
+110844,Social Studies
+12546,Social Studies
+12555,Social Studies
+12564,Social Studies
+12573,Social Studies
+12582,Social Studies
+12591,Social Studies
+12609,Social Studies
+110916,Social Studies
+12618,Social Studies
+12627,Social Studies
+12636,Social Studies
+12645,Social Studies
+12654,Social Studies
+12663,Social Studies
+110970,Social Studies
+12672,Social Studies
+12681,Social Studies
+12690,Social Studies
+12699,Social Studies
+111006,Social Studies
+12708,Social Studies
+111015,Social Studies
+12717,Literature
+111024,Social Studies
+12726,Social Studies
+12735,Literature
+12744,Literature
+12753,Literature
+12762,Social Studies
+12771,Social Studies
+12780,Social Studies
+12789,Social Studies
+12798,Social Studies
+12807,Social Studies
+12816,Social Studies
+12825,Social Studies
+12834,Social Studies
+12843,Social Studies
+12852,Social Studies
+12861,Social Studies
+12870,Social Studies
+12879,Literature
+12888,Social Studies
+12897,Social Studies
+12906,Social Studies
+12915,Social Studies
+111222,Social Studies
+12924,Fine Arts
+12933,Social Studies
+12942,Social Studies
+12951,Social Studies
+12969,Social Studies
+12978,Other
+12987,Social Studies
+12996,Social Studies
+13005,Social Studies
+13014,Social Studies
+13023,Social Studies
+13032,Social Studies
+13041,Social Studies
+13050,Social Studies
+111357,Social Studies
+13059,Social Studies
+13068,Social Studies
+13077,Social Studies
+13086,Social Science
+13095,Social Studies
+13113,Social Studies
+13122,Social Studies
+13131,Social Studies
+13140,Literature
+13149,Social Studies
+13158,Social Studies
+13167,Social Studies
+111474,Social Studies
+13176,Literature
+13194,Social Studies
+13203,Social Studies
+13212,Social Studies
+13221,Social Studies
+13230,Social Studies
+13239,Social Science
+13248,Social Studies
+111573,Social Studies
+111582,Literature
+13284,Social Studies
+111591,Social Studies
+111600,Social Studies
+111618,Social Studies
+111627,Social Studies
+111636,Social Studies
+111654,Social Studies
+111663,Social Studies
+111708,Fine Arts
+111465,Social Studies
+111483,Social Studies
+13185,Social Studies
+111492,Social Studies
+111924,Social Studies
+111501,Social Studies
+111960,Social Studies
+111969,Social Studies
+111987,Social Studies
+111510,Social Studies
+112014,Fine Arts
+112032,Social Studies
+112041,Social Studies
+112104,Social Science
+111528,Social Studies
+112158,Social Studies
+112167,Physics
+112176,Social Studies
+111546,Social Studies
+111555,Social Studies
+13257,Social Studies
+111564,Social Studies
+13266,Social Studies
+112410,Social Studies
+13275,Social Studies
+106119,Social Studies
+112482,Social Studies
+112500,Mathematics
+112518,Fine Arts
+13293,Social Studies
+112536,Social Studies
+112545,Social Studies
+112563,Social Studies
+13302,Social Studies
+111609,Social Studies
+112617,Social Studies
+112644,Social Science
+112680,Social Studies
+112689,Social Studies
+112725,Social Studies
+112797,Social Studies
+111645,Social Studies
+112887,Social Studies
+112959,Social Studies
+112968,Social Studies
+112995,Mathematics
+113076,Social Studies
+113103,Social Studies
+106245,Social Studies
+113193,Social Studies
+113544,Other
+113562,Other
+113598,History
+113688,History
+113778,Social Studies
+106353,Literature
+113841,Geography
+113850,Social Studies
+113859,Social Studies
+113940,Social Studies
+113958,Social Studies
+113994,Social Studies
+114003,Social Studies
+114039,Social Studies
+114057,Social Studies
+114066,Social Studies
+114111,Social Studies
+114120,Social Studies
+111879,History
+114408,Social Studies
+114426,History
+111915,Social Studies
+114489,Social Studies
+114534,Literature
+114543,History
+114561,Geography
+114570,History
+117405,Social Studies
+114714,Social Studies
+114768,Social Studies
+114975,History
+114984,Social Studies
+115011,Social Studies
+115020,Social Studies
+115029,Social Studies
+115038,Social Studies
+115047,Fine Arts
+115056,Social Studies
+115065,Social Studies
+115074,Social Studies
+115083,Literature
+115092,History
+115101,Social Studies
+115110,Social Studies
+115119,Social Studies
+115128,Social Studies
+115137,Social Studies
+115146,Social Studies
+115245,Social Studies
+115254,Mathematics
+115281,Social Studies
+112059,Social Studies
+115326,Social Studies
+115407,Social Studies
+115425,Social Studies
+115434,Social Studies
+115668,Literature
+115731,Social Studies
+115740,Other
+115776,Social Studies
+116055,Mathematics
+116073,Social Science
+116181,Social Studies
+116244,Social Studies
+116280,Social Studies
+116298,Social Studies
+116361,Social Studies
+116433,Social Studies
+116505,Social Studies
+116559,Social Studies
+116586,Social Studies
+116631,Social Studies
+116640,Physics
+117171,Social Studies
+117180,History
+117198,Social Science
+117297,Social Studies
+117315,Social Studies
+117342,Social Studies
+117351,Social Science
+117360,Social Studies
+117414,Mathematics
+117441,Social Studies
+117513,Social Studies
+117648,Mathematics
+117693,Social Studies
+117729,Social Studies
+117738,Social Studies
+117747,Social Studies
+117756,Social Studies
+117765,Social Studies
+117774,Social Studies
+117783,Social Studies
+117792,Social Studies
+117801,Social Studies
+117810,Social Studies
+117819,Social Studies
+117828,Social Studies
+117837,Social Studies
+117846,Social Studies
+117855,Literature
+117864,Social Studies
+117873,Social Studies
+117882,Social Studies
+117891,Social Studies
+117900,Social Studies
+117909,Social Studies
+117918,Social Studies
+117927,Social Studies
+117936,Social Studies
+117945,Social Studies
+117954,Other
+117963,Social Studies
+117999,Social Studies
+118017,Physics
+118044,Social Studies
+118071,Earth Science
+118080,Social Studies
+118179,Social Studies
+118188,Social Studies
+118224,Social Studies
+118233,Literature
+118323,Fine Arts
+118350,Social Studies
+118359,Social Studies
+118368,Social Studies
+118377,Social Studies
+118413,Social Studies
+118422,Social Studies
+118494,Social Studies
+118521,History
+118575,Social Studies
+118584,Social Studies
+118674,Social Studies
+118719,Literature
+118773,Social Studies
+118800,Social Studies
+118908,Social Studies
+118917,Social Studies
+119016,History
+119070,Social Studies
+119151,Social Studies
+119169,Social Science
+119214,Social Science
+119250,Mathematics
+119286,Social Studies
+119331,Social Studies
+119340,Literature
+119394,Literature
+119421,Social Studies
+119484,Social Studies
+119682,Social Studies
+119691,Social Studies
+119754,Social Studies
+119817,Social Studies
+112815,Social Studies
+119844,Social Studies
+120303,Social Science
+120321,Social Science
+120348,Mathematics
+101979,History
+120375,Social Studies
+120465,Biology
+120483,Social Studies
+120528,Social Studies
+120555,Social Studies
+102033,Social Studies
+120699,Social Science
+120708,Geography
+120744,Social Studies
+120753,Literature
+120924,History
+120933,Fine Arts
+120942,Social Studies
+120951,History
+120960,Social Studies
+120969,Social Studies
+120978,Social Studies
+120987,Social Studies
+120996,Fine Arts
+121005,Social Studies
+121014,Social Studies
+121023,Geography
+121032,Social Studies
+121041,Social Studies
+121086,Social Studies
+121104,Social Studies
+121113,Social Studies
+121239,Social Studies
+121356,Social Studies
+121608,Social Science
+121644,Social Studies
+121716,Social Studies
+121725,Social Studies
+121743,Social Studies
+121752,Social Studies
+121815,Social Studies
+121950,Social Studies
+121986,Social Studies
+122031,Social Studies
+122058,Social Studies
+122139,Social Studies
+122166,Social Studies
+102285,Social Studies
+122220,Social Studies
+109917,Social Studies
+122499,Social Studies
+122508,Social Studies
+122553,Social Studies
+122607,Literature
+122760,History
+122823,Social Studies
+123012,Social Science
+123030,Social Studies
+123048,Social Studies
+11736,Social Studies
+123156,Social Studies
+123183,Social Studies
+123192,Social Science
+123210,Geography
+123273,Social Studies
+123282,Social Studies
+123309,Social Studies
+123390,Social Studies
+123399,Social Studies
+123417,Social Studies
+123444,Social Studies
+123480,Social Studies
+123561,Social Studies
+123579,Social Studies
+123597,Social Studies
+123633,Social Studies
+123651,Social Studies
+123660,Social Studies
+123669,History
+123723,Social Studies
+123777,Social Science
+123840,Social Science
+123894,Social Studies
+123903,Social Science
+111114,Social Studies
+110034,Social Studies
+108513,Social Studies
+12960,Social Studies
+111204,Literature
+111231,Social Studies
+111258,Geography
+103581,Social Studies
+103617,Physics
+109098,Social Studies
+10836,Social Studies
+109152,Social Studies
+109215,Social Studies

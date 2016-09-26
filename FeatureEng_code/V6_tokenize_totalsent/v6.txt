@@ -1,0 +1,146 @@
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+1600
+1700
+1800
+1900
+2000
+2100
+2200
+2300
+2400
+2500
+2600
+2700
+2800
+2900
+3000
+3100
+3200
+3300
+3400
+3500
+3600
+3700
+3800
+3900
+4000
+4100
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+1500
+1600
+1700
+1800
+1900
+2000
+2100
+2200
+2300
+2400
+2500
+2600
+2700
+2800
+2900
+3000
+3100
+3200
+3300
+3400
+3500
+3600
+3700
+3800
+3900
+4000
+4100
+Michel_Mayor Mayor_used used_astrometric astrometric_data data_provided provided_Hipparcos Hipparcos_conjunction conjunction_radial radial_velocity velocity_method method_investigate investigate_candidates candidates_S S_Ori Ori_has has_lowest lowest_mass mass_known known_release release_substantial substantial_amounts amounts_infrared infrared_radiation radiation_Known Known_fuse fuse_deuterium deuterium_small small_scale scale_was was_coined coined_Jill Jill_Tarter Tarter_Gliese Gliese_was was_first first_be be_confirmed confirmed_maximum maximum_mass mass_believed believed_be be_approximately approximately_times times_mass mass_Jupiter Jupiter_largest largest_mass mass_insufficient insufficient_normal normal_hydrogen hydrogen_fusion fusion_dimmest dimmest_least least_massive massive_star star_sometimes sometimes_referred referred_as as_failed failed_star. star. 
+her!!!!!!!!!!!!!!eeee
+Astronomy: years_away inner_region theory_states years nebula_ occurs_change brightest_star messier_catalog big_bang _number
+Biology: gene_expression transcription_factor protein_responsible red_blood krebs_cycle adrenal_glands amino_acids protein amino_acid protein_binds
+Chemistry: jones named_letter alkyl_halides atomic_number lennard approaches_zero reaction_type carbon free_energy double_bond
+Earth Science: gutenberg_discontinuity known_d scale velocity_zone low_velocity approximately_miles degrees_north period_first chief_source rah
+Fine Arts: work_based be_seen painting_artist second_act character_opera third_movement minor second_movement for_pointsname pointsname_author
+Geography: meh indian_nation ki highest_mountain city_once city_now largest_tributary gair _gulf lah
+History: civil_rights supreme_court was_defeated man_became nation_was came_power civil_war market_buys was_founded office_was
+Literature: title_characters narrator_work main_character character_has author_wrote done you title_character character_work short_story
+Mathematics: data_structures quantum_mechanics degree prime_ideal proof_theorem be_solved quantity_x property_not topological_space zeta_function
+Other: _rl title_track first_film bowl_game other_participant try_try features_song band_songs _yr type_event
+Physics: force c_c effect_was used_model time_derivative herzog form_substance center_structure vector_potential electric_field
+Science: objects_be change_quantity quantity_be associated_force property_be hoy systems_equals family_proteins directly_proportional kind_matter
+Social Science: horse treaty_versailles religion_founded philosophical_position n_experiment wrote_book answer_treaty versailles ree uh
+Social Studies: body_water nation_capital title_concept often_given ali largest_city was_said god_was second_largest figure_was
+TRAIN
+-------------------------
+Accuracy: 1.000000
+Astronomy	Biology	Chemistry	Earth Science	Fine Arts	Geography	History	Literature	Mathematics	Other	Physics	Science	Social Science	Social Studies
+24	0	0	0	0	0	0	0	0	0	0	0	0	0
+0	121	0	0	0	0	0	0	0	0	0	0	0	0
+0	0	108	0	0	0	0	0	0	0	0	0	0	0
+0	0	0	15	0	0	0	0	0	0	0	0	0	0
+0	0	0	0	392	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	24	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	665	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	788	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	63	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	240	0	0	0	0
+0	0	0	0	0	0	0	0	0	0	134	0	0	0
+0	0	0	0	0	0	0	0	0	0	0	113	0	0
+0	0	0	0	0	0	0	0	0	0	0	0	124	0
+0	0	0	0	0	0	0	0	0	0	0	0	0	521
+TEST
+-------------------------
+Accuracy: 0.612981
+Astronomy	Biology	Chemistry	Earth Science	Fine Arts	Geography	History	Literature	Mathematics	Other	Physics	Science	Social Science	Social Studies
+1	0	0	0	1	0	3	0	0	0	0	0	0	1
+1	13	2	0	0	0	6	2	0	1	0	3	0	2
+0	2	16	0	1	0	1	1	0	0	5	1	0	0
+0	1	0	0	0	0	0	0	0	0	0	0	0	2
+0	2	0	0	63	0	11	15	0	2	0	0	0	5
+0	0	0	0	0	0	4	0	0	0	0	0	0	3
+1	1	0	0	0	0	144	9	0	1	0	0	0	10
+0	0	0	0	11	0	16	162	0	2	0	1	1	4
+0	0	1	0	0	0	3	3	5	1	1	1	0	0
+0	0	0	0	3	0	17	23	0	14	1	0	0	2
+0	4	5	0	0	0	5	2	1	0	14	2	0	1
+0	3	3	0	2	0	3	1	0	0	6	7	2	1
+0	1	0	0	0	0	6	4	0	0	0	2	3	15
+0	1	1	0	5	0	26	25	0	3	1	0	0	68
+('set_approximations', 'Chemistry')	1
+('Japanese_spirit', 'History')	1
+('was_once', 'History')	1
+('Day_Earth', 'Literature')	1
+('DisPerSE_formalism', 'Physics')	1
+('scientist_began', 'Literature')	1
+('work_character', 'Literature')	1
+('people_believe', 'Literature')	1
+('side_effects', 'Chemistry')	1
+('Analysis_caudate', 'Social Studies')	1

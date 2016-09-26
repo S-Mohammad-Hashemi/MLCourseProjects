@@ -1,0 +1,72 @@
+Michel Mayor used astrometric data provided by Hipparcos in conjunction with the radial velocity method to investigate ten candidates for them.	S Ori 47 has the lowest mass of any known one of these and they release substantial amounts of infrared radiation.	Known to fuse deuterium on a small scale, their name was coined by Jill Tarter and Gliese 229B was the first one to be confirmed.	The maximum mass of one of these is believed to be approximately 84 times the mass of Jupiter, or the largest mass that is insufficient for normal hydrogen fusion.	For 10 points, name this dimmest and least massive star, sometimes referred to as a "failed star.	" 
+her!!!!!!!!!!!!!!eeee
+Astronomy: classification astronomical jupiter object phenomenon objects star atmosphere stars galaxies
+Biology: essential bone chromosome humans selection responsible genes plants syndrome enzyme
+Chemistry: phases solvent stability component carbonyl interactions ion presence chemistry chemist
+Earth Science: hot crust material occur discontinuity earth minerals period mantle rock
+Fine Arts: violin architect commissioned opera painted piano painting background composer pointsname
+Geography: lies 2011 populous borders sea strait built feature bridge mountain
+History: bce invention elected capture expedition occurred battles byzantine foreign successor
+Literature: stories narrative poem play poet poems literature literary playwright novels
+Mathematics: functions mathematician methods kind every mathematics differential abelian algebraic polynomial
+Other: band win actor code season strip starring yr oscar rl
+Physics: physical parameter gravitational quark spin potentials due physicist partial physics
+Science: magnitude integer atom degree organelle radiation contrasted increase constellation equals
+Social Science: thinker goods testament fast sermon aristotle faith starting citizens gospel
+Social Studies: 15 demon trojan gods beliefs festival psychology importance analysis rivers
+TRAIN
+-------------------------
+Accuracy: 0.911143
+Astronomy	Biology	Chemistry	Earth Science	Fine Arts	Geography	History	Literature	Mathematics	Other	Physics	Science	Social Science	Social Studies
+219	0	0	0	0	0	0	0	0	0	1	2	0	13
+0	1070	10	1	0	0	3	6	0	0	0	43	0	76
+0	0	1065	0	0	0	0	0	1	0	5	9	0	4
+0	0	0	119	0	0	0	0	0	0	0	2	0	17
+0	0	1	0	3758	0	16	76	1	6	0	2	0	66
+0	0	0	0	2	102	5	0	0	0	0	3	0	136
+1	0	1	0	8	0	6371	41	0	3	0	1	2	216
+0	1	0	0	45	0	46	7439	0	48	0	7	2	292
+0	0	0	0	0	0	0	0	570	2	4	14	0	32
+0	1	2	0	23	0	154	123	4	1976	4	5	0	111
+3	1	15	1	1	0	1	3	15	5	1213	37	0	48
+1	3	24	0	0	0	0	0	14	1	23	1044	1	19
+3	1	4	0	8	0	64	59	5	9	4	46	271	768
+0	0	0	1	3	0	31	26	1	7	1	1	2	5135
+('This', 'Social Studies')	469
+('One', 'Social Studies')	212
+('The', 'Social Studies')	201
+('In', 'Social Studies')	178
+('This', 'History')	87
+('A', 'Social Studies')	81
+('This', 'Literature')	65
+('In', 'Literature')	59
+('One', 'Literature')	46
+('One', 'History')	41
+TEST
+-------------------------
+Accuracy: 0.780233
+Astronomy	Biology	Chemistry	Earth Science	Fine Arts	Geography	History	Literature	Mathematics	Other	Physics	Science	Social Science	Social Studies
+29	0	0	1	0	0	3	0	0	1	7	0	0	17
+0	197	10	1	3	0	1	3	2	3	0	40	0	43
+0	5	215	0	0	0	1	0	1	0	10	24	0	14
+0	0	3	14	0	0	1	1	1	0	1	2	0	12
+2	1	0	0	847	0	12	62	1	14	0	4	0	38
+0	1	0	1	2	9	3	0	0	0	0	4	0	42
+0	0	0	1	4	1	1497	15	0	15	0	6	1	122
+0	1	0	1	30	0	33	1719	2	43	0	3	0	138
+1	1	3	0	0	0	0	0	105	1	9	13	0	22
+0	1	0	0	29	1	79	92	1	319	0	9	1	69
+3	0	21	0	1	0	1	1	16	3	214	47	1	28
+6	12	35	1	2	1	4	0	19	3	32	153	1	13
+1	0	2	0	1	0	32	12	4	7	2	24	16	209
+2	2	0	2	10	1	52	42	4	13	4	4	3	1163
+('This', 'Social Studies')	182
+('The', 'Social Studies')	100
+('In', 'Social Studies')	74
+('One', 'Social Studies')	64
+('This', 'History')	50
+('This', 'Literature')	39
+('In', 'Literature')	38
+('One', 'Literature')	36
+('The', 'Science')	32
+('He', 'Social Studies')	28
